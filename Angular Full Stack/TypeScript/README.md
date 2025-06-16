@@ -13,8 +13,7 @@ function outerFunction() {
     }, 2000);
 }
 outerFunction();
-
----
+```
 
 <details> <summary>View Answer</summary>
 Answer: "Wade Wilson"
