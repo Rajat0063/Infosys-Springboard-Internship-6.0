@@ -659,112 +659,161 @@ Works despite T being generic because of type argument <string>
 </details>
 <!-- End Here -->
 
-**Question: 14** What will be the most appropriate output for the following?
+<!-- Extra Questions Start From Here -->
+**Question: 26** Which of the following line/lines will lead to the compilation error/errors?
 
 ```typescript
-enum defaultPrice { Single = 1000, Double = 2000, Triple = 3000 }
-enum cost { Red = defaultPrice.Single, Green = Blue, Blue = defaultPrice.Double + defaultPrice.Triple, White = defaultPrice.Triple };
-var price = cost.Blue;
+var a: [string, number];
+1.	a = ["Stephen Strange", null, "Tony Stark", 2, 6];
+2.	a = ["Stephen Strange", undefined, "Tony Stark", 2, 6];
+3.	a = [undefined, "Tony Stark", 2, "Stephen Strange"];
+4.	a = [null, null, 4, "Tony Stark", 2, 6];
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: No errors (compiles successfully)
+✅ Answer: All of the options
 
 💡 Explanation:
-TypeScript allows:
 
-Enum value computation (5000 in this case)
+-> Tuples require exact type matches at each position
 
-Forward references to other enum members
+-> null/undefined aren't assignable to number without explicit union type
 
-Both numeric and computed enum values
+-> All options either:
+
+    --> Violate the tuple length
+    --> Have type mismatches
+    --> Include illegal values
 
 </details>
 
-**Question: 14** What will be the most appropriate output for the following?
+**Question: 27** Predict the output for the below code:
 
 ```typescript
-enum defaultPrice { Single = 1000, Double = 2000, Triple = 3000 }
-enum cost { Red = defaultPrice.Single, Green = Blue, Blue = defaultPrice.Double + defaultPrice.Triple, White = defaultPrice.Triple };
-var price = cost.Blue;
+function fun(str: string): string {
+    return 42 + " " + str;
+}
+function fun(num: number): string {
+    return "hello! " + num;
+}
+let d: string = "hello!";
+var disp: string = fun(d);
+console.log(disp);
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: No errors (compiles successfully)
+✅ Answer: Error: Duplicate function implementation
 
 💡 Explanation:
-TypeScript allows:
 
-Enum value computation (5000 in this case)
+-> TypeScript doesn't allow traditional function overloading
 
-Forward references to other enum members
+-> These are identical runtime signatures despite different parameter types
 
-Both numeric and computed enum values
+-> Requires union types or type guards instead
 
 </details>
 
-**Question: 14** What will be the most appropriate output for the following?
+**Question: 28** What will be the output for the below code?
 
 ```typescript
-enum defaultPrice { Single = 1000, Double = 2000, Triple = 3000 }
-enum cost { Red = defaultPrice.Single, Green = Blue, Blue = defaultPrice.Double + defaultPrice.Triple, White = defaultPrice.Triple };
-var price = cost.Blue;
+class a {
+    fun(str: string): string {
+        return str + " from a";
+    }
+}
+class b extends a {
+    fun(str: string): string {
+        super.fun(str);
+        return str + " from b";
+    }
+}
+let obj = new b();
+let disp: string = obj.fun("Hello");
+alert(disp);
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: No errors (compiles successfully)
+✅ Answer: Hello from b
 
 💡 Explanation:
-TypeScript allows:
 
-Enum value computation (5000 in this case)
+-> Child class overrides parent method
 
-Forward references to other enum members
+-> super.fun() executes but its return is ignored
 
-Both numeric and computed enum values
+-> Only child's return value is used
+
+-> To combine results: return super.fun(str) + " from b"
 
 </details>
 
-**Question: 14** What will be the most appropriate output for the following?
+**Question: 29** Choose an appropriate answer in order to execute the below code without any error:
 
 ```typescript
-enum defaultPrice { Single = 1000, Double = 2000, Triple = 3000 }
-enum cost { Red = defaultPrice.Single, Green = Blue, Blue = defaultPrice.Double + defaultPrice.Triple, White = defaultPrice.Triple };
-var price = cost.Blue;
+function fun(a) {
+    alert("List: " + a);
+}
+fun("Sherlock", "Dr.Watson", "Inspector Lestrade");
+fun("Irene Adler");
+fun();
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: No errors (compiles successfully)
+✅ Answer: a should be a rest parameter of string[] type
 
-💡 Explanation:
-TypeScript allows:
+💡 Solution:
 
-Enum value computation (5000 in this case)
+typescript
+function fun(...a: string[]) {
+    alert("List: " + a.join(", "));
+}
+Key Points:
 
-Forward references to other enum members
+-> Rest parameters (...) capture all arguments
 
-Both numeric and computed enum values
+-> Works for any number of parameters
+
+-> Explicit typing ensures type safety
 
 </details>
 
-**Question: 14** What will be the most appropriate output for the following?
+**Question: 30** Predict the output for the below code:
 
 ```typescript
-enum defaultPrice { Single = 1000, Double = 2000, Triple = 3000 }
-enum cost { Red = defaultPrice.Single, Green = Blue, Blue = defaultPrice.Double + defaultPrice.Triple, White = defaultPrice.Triple };
-var price = cost.Blue;
+1.     interface a
+2.       {
+3.           name: string;
+4. }
+5.    interface b
+6.       {
+7.           age: number;
+8.}
+9.     interface c extends a, b
+10. {
+11.          cash: number;
+12. }
+13.    class ab implements a, b
+14.    {
+15.         cash = 2000;
+16.         name = "Barry";
+17.         age = 20;
+18.         public a = () => alert(this.cash + " was the amount " + this.name + " had when he was " + this.age);
+19. }
+20.    new ab().a();
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: No errors (compiles successfully)
+✅ Answer: 2000 was the amount Barry had when he was 20
 
 💡 Explanation:
-TypeScript allows:
 
-Enum value computation (5000 in this case)
+-> Class can implement multiple interfaces directly
 
-Forward references to other enum members
+-> interface c extension is irrelevant here
 
-Both numeric and computed enum values
+-> All required properties are properly implemented
+
+-> Arrow function maintains correct this context
 
 </details>
