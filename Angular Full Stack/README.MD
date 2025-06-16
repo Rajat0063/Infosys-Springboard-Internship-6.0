@@ -4,11 +4,12 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 
 ## 📚 Video Tutorials
 
-| Topic        | Video Link                                                                 | What You'll Learn                          |
+| Topic        | Video Link                                                                 | Duration                          |
 |--------------|----------------------------------------------------------------------------|--------------------------------------------|
-| JavaScript   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/qIhsQiETTw0) | Master core JS concepts and assessment solutions |
-| Angular      | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/vckc8c24p_E) | Angular framework mastery with solutions   |
-| Bootstrap    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/jk6vzNhhnVw) | Twitter Bootstrap implementation guide     |
+| JavaScript   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/qIhsQiETTw0) | 2m 57sec |
+| Angular      | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/vckc8c24p_E) | 3m 26sec |
+| Bootstrap    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/jk6vzNhhnVw) | 3m 19sec |
+| TypeScript   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/jk6vzNhhnVw) | 3m 39sec |
 
 ## 💯 Why These Work
 
