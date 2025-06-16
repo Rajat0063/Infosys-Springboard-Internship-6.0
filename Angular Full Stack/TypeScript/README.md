@@ -284,7 +284,6 @@ Named exports and default exports work together properly
 
 </details>
 
-
 **Question 12:** What is the data type used in TypeScript to declare a variable that does not hold any value in the entire application?
 
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -298,7 +297,6 @@ Functions that never return
 Variables that should never have a value
 
 </details>
-
 
 **Question 13:** What will be the output for the following code?
 
@@ -324,7 +322,6 @@ Rest parameters collect remaining values into restName
 
 </details>
 
-
 **Question 14:** What will be the most appropriate output for the following?
 
 ```typescript
@@ -346,7 +343,6 @@ Forward references to other enum members
 Both numeric and computed enum values
 
 </details>
-
 
 **Question 15:** Find error if any in the below code:
 
