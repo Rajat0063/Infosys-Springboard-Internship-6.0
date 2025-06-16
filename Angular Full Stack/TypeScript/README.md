@@ -273,7 +273,6 @@ console.log(`${emp} is an ${mainutil.identity}`);
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-<details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: "JA$ 753886 is an EMPLOYEE"
 
 💡 Explanation:
@@ -283,6 +282,7 @@ The alias mainUtility is correctly imported and used
 Named exports and default exports work together properly
 
 </details>
+
 
 **Question 12:** What is the data type used in TypeScript to declare a variable that does not hold any value in the entire application?
 
@@ -297,6 +297,7 @@ Functions that never return
 Variables that should never have a value
 
 </details>
+
 
 **Question 13:** What will be the output for the following code?
 
@@ -322,6 +323,7 @@ Rest parameters collect remaining values into restName
 
 </details>
 
+
 **Question 14:** What will be the most appropriate output for the following?
 
 ```typescript
@@ -343,6 +345,7 @@ Forward references to other enum members
 Both numeric and computed enum values
 
 </details>
+
 
 **Question 15:** Find error if any in the below code:
 
@@ -375,6 +378,7 @@ Order matters in TypeScript class declarations
 The actual functionality would work if syntax was correct
 
 </details>
+
 
 **Question 16:** Predict the output for the below code:
 
@@ -410,6 +414,7 @@ Duck typing allows this usage
 
 </details>
 
+
 **Question 17:** Predict the output for the below code:
 
 ```typescript
@@ -430,6 +435,7 @@ push adds them back as a nested array
 Results in modified array + nested array
 
 </details>
+
 
 **Question 18:** Predict the output for the below code:
 
@@ -465,6 +471,7 @@ No type interference between instances
 
 </details>
 
+
 **Question 19:** Predict the output for the below code:
 
 ```typescript
@@ -499,6 +506,7 @@ Method returns the initialized value
 
 </details>
 
+
 **Question 20:** Consider the below-given TypeScript code that populates studentId value on the default console. 
 
 Can you help in updating this code to implement the same concept using rest parameter usage.
@@ -524,6 +532,7 @@ First element studentInfo[0] corresponds to original studentId
 Maintains identical functionality while being more flexible
 
 </details>
+
 
 **Question 21:** What will be the output for the below code?
 
@@ -551,6 +560,7 @@ The final assignment (40) wins
 
 </details>
 
+
 **Question 22:** Predict the output of the below-given code snippet.
 
 ```typescript
@@ -576,6 +586,7 @@ Total: 8 + 205 = 213
 
 </details>
 
+
 **Question 23:** Select the statement that helps a TypeScript developer to understand the purpose of Decorators?
 
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -593,6 +604,7 @@ Enable declarative programming patterns
 Widely used in frameworks like Angular
 
 </details>
+
 
 **Question 24:** Predict the output of the below-given TypeScript code.
 
@@ -617,6 +629,7 @@ Returns array of removed elements
 Here removes 1 element at index 1 (Jack)
 
 </details>
+
 
 **Question 25:** What will be the output for the below code?
 
