@@ -14,6 +14,8 @@ function outerFunction() {
 }
 outerFunction();
 
+---
+
 <details> <summary>View Answer</summary>
 Answer: "Wade Wilson"
 
