@@ -75,15 +75,7 @@ alert(colors);
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ["Red", "Blue", "White"]
-
-💡 Explanation:
-
-The reassignment of colors fails because it's a const
-
-The push operation succeeds because it modifies the array without reassignment
-
-The error prevents the timeout callback from executing
+✅ Answer: error: colors cannot be reinitialized since it is a constant
 
 </details>
 
@@ -333,16 +325,7 @@ var price = cost.Blue;
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: No errors (compiles successfully)
-
-💡 Explanation:
-TypeScript allows:
-
-Enum value computation (5000 in this case)
-
-Forward references to other enum members
-
-Both numeric and computed enum values
+✅ Answer: Compilation Error : A member initializer in a enum declaration cannot reference members declared after it.
 
 </details>
 
@@ -366,7 +349,7 @@ Both numeric and computed enum values
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Line 7 alone causes error because extends clause must precede implements
+✅ Answer: Line 7 alone causes error because extends clause must precede implements clause
 
 💡 Explanation:
 Correct syntax would be:
@@ -458,16 +441,8 @@ show2.addCharacter(seasons);
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer:
-["Chandler", "Monica", "Joe"]
-[1, 2, 3, 4, 5]
-
-💡 Explanation:
-
-Same class works with different types
-
-Type parameter T enforces consistency
-
-No type interference between instances
+[ 'Chandler', 'Monica', 'Joe', 'Rachel', 'Ross' ]
+[ 'Chandler', 'Monica', 'Joe', 'Rachel', 'Ross' ]
 
 </details>
 
@@ -494,15 +469,7 @@ console.log(obj.fun());
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: "Success!"
-
-💡 Explanation:
-
-Interface enforces method implementation
-
-Class correctly implements all members
-
-Method returns the initialized value
+✅ Answer: Error : 'abstract' modifier cannot appear on a type member
 
 </details>
 
@@ -521,7 +488,7 @@ console.log(studentInfo);
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Both changes must be implemented
+✅ Answer: Both the mentioned changes must be implemented.
 
 💡 Explanation:
 
@@ -778,42 +745,14 @@ Key Points:
 
 </details>
 
-**Question: 30** Predict the output for the below code:
+**Question 30:** What will be the output for the following?
 
 ```typescript
-1.     interface a
-2.       {
-3.           name: string;
-4. }
-5.    interface b
-6.       {
-7.           age: number;
-8.}
-9.     interface c extends a, b
-10. {
-11.          cash: number;
-12. }
-13.    class ab implements a, b
-14.    {
-15.         cash = 2000;
-16.         name = "Barry";
-17.         age = 20;
-18.         public a = () => alert(this.cash + " was the amount " + this.name + " had when he was " + this.age);
-19. }
-20.    new ab().a();
+enum cost { Blue = 5000, Green = Blue, Red = Blue+2500, White = Green , Black=2000 };
+console.log(cost[5000]);
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 2000 was the amount Barry had when he was 20
-
-💡 Explanation:
-
--> Class can implement multiple interfaces directly
-
--> interface c extension is irrelevant here
-
--> All required properties are properly implemented
-
--> Arrow function maintains correct this context
+✅ Answer: White
 
 </details>
