@@ -1,6 +1,6 @@
 # TypeScript Quiz Questions
 
-Test your TypeScript knowledge with these 25 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+Test your TypeScript knowledge with these 30 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
 **Question 1:** Predict the output for the below code:
 
@@ -627,7 +627,7 @@ Works despite T being generic because of type argument <string>
 <!-- End Here -->
 
 <!-- Extra Questions Start From Here -->
-**Question: 26** Which of the following line/lines will lead to the compilation error/errors?
+**Question 26:** Which of the following line/lines will lead to the compilation error/errors?
 
 ```typescript
 var a: [string, number];
@@ -654,7 +654,7 @@ var a: [string, number];
 
 </details>
 
-**Question: 27** Predict the output for the below code:
+**Question 27:** Predict the output for the below code:
 
 ```typescript
 function fun(str: string): string {
@@ -681,7 +681,7 @@ console.log(disp);
 
 </details>
 
-**Question: 28** What will be the output for the below code?
+**Question 28:** What will be the output for the below code?
 
 ```typescript
 class a {
@@ -715,7 +715,7 @@ alert(disp);
 
 </details>
 
-**Question: 29** Choose an appropriate answer in order to execute the below code without any error:
+**Question 29:** Choose an appropriate answer in order to execute the below code without any error:
 
 ```typescript
 function fun(a) {
