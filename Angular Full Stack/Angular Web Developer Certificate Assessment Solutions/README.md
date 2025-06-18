@@ -249,50 +249,89 @@ export class HighlightDirective (
 
 ## <h1 align="center">Data Binding</h1>
 
-**Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
+**Question 1:** What should be the code written at Line 1 such that Fruits button is disabled when it loads in browser?
+
+```typescript
+@Component({
+
+selector: 'my-app",
+
+template: cbutton
+
+Line 1 >Fruits</button>"
+
+})
+
+export class AppComponent {
+
+disableFruit: Boolean false;
+}
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  
-
-(a) Change detection algorithm is generated whenever every component is initialized
-(b) Zones detects all asynchronous actions at run time
+✅ Answer:  [disabled]="disableFruit"
 
 </details>
 
-**Question 2:** Choose the appropriate statement(s) regarding Angular Command
-Line Interface (CLI) [Select any three]
+**Question 2:** From the below code snippet, predict the cause of error if any.
+
+```typescript
+App.component.html
+
+<table border=1>
+
+<tr>
+<td [colspan]="{{2+3}}">Hello</td>
+
+<td>john</td>
+
+</tr>
+
+<tr>
+
+<td >Hello</td>
+
+<td>Michael</td>
+
+</tr>
+
+</table>
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: Error due to incorrect attribute binding
+
+</details>
+
+**Question 3:** Which is the correct statement to be placed in the template to hide the button based on the expression?
+
+```typescript
+@Component([
+
+selector: 'my-app",
+
+template: <button>Click me </button>"
+})
+
+export class AppComponent [
+
+check: boolean true;
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: [hidden]='check'
+
+</details>
+
+**Question 4:** Identify the appropriate options below: [Select any two]
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes
-(b) CLI comes with webpack pre configured for hassle free configuration
-(c) CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+✔ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event"><br>
 
-</details>
-
-**Question 3:** Tom, a front-end developer wants to update his Angular project to the latest Angular version. Suggest him the possible way.
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ng update @angular/cli @angular/core
-
-</details>
-
-**Question 4:** Guess who is right from the below conversation.
-
-Alex: It is mandatory to use Typescript in Angular
-
-John: No, it's not mandatory to use TypeScript in Angular
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: John
-
-</details>
-
-**Question 5:** Which of the below feature helps in increasing the network performance of an Angular application?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Lazy loading of modules
+✔ <input bindon-ngModel="employee.employeeName">
 
 </details>
 
