@@ -2,7 +2,7 @@
 
 Test your Angular knowledge with these 30 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
-## Introduction
+## <h1 align="center">Introduction</h1>
 
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
@@ -52,7 +52,7 @@ John: No, it's not mandatory to use TypeScript in Angular
 </details>
 
 
-## Components, Modules and Templates
+## <h1 align="center">Components, Modules and Templates</h1>
 
 **Question 1:** Which of the following will display "COVID19" when the angular applic ation loads in Browser?
 
@@ -247,7 +247,7 @@ export class HighlightDirective (
 </details>
 
 
-## Data Binding
+## <h1 align="center">Data Binding</h1>
 
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
@@ -297,7 +297,7 @@ John: No, it's not mandatory to use TypeScript in Angular
 </details>
 
 
-## Pipes and Forms
+## <h1 align="center">Pipes and Forms</h1>
 
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
@@ -347,7 +347,7 @@ John: No, it's not mandatory to use TypeScript in Angular
 </details>
 
 
-## Component Communication & LifeCycle
+## <h1 align="center">Component Communication & LifeCycle</h1>
 
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
@@ -397,7 +397,7 @@ John: No, it's not mandatory to use TypeScript in Angular
 </details>
 
 
-## DI & Services
+## <h1 align="center">DI & Services</h1>
 
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
@@ -447,7 +447,7 @@ John: No, it's not mandatory to use TypeScript in Angular
 </details>
 
 
-## Routing
+## <h1 align="center">Routing</h1>
 
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
