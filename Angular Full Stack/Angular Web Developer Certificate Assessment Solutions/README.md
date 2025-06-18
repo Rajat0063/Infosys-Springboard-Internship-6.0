@@ -9,7 +9,7 @@ Test your Angular knowledge with these 30 challenging questions. Each question i
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer:  
 
-(a) Change detection algorithm is generated whenever every component is initialized
+(a) Change detection algorithm is generated whenever every component is initialized<br>
 (b) Zones detects all asynchronous actions at run time
 
 </details>
@@ -20,8 +20,8 @@ Line Interface (CLI) [Select any three]
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes
-(b) CLI comes with webpack pre configured for hassle free configuration
+(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes<br>
+(b) CLI comes with webpack pre configured for hassle free configuration<br>
 (c) CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
 
 </details>
@@ -66,7 +66,7 @@ John: No, it's not mandatory to use TypeScript in Angular
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-(a) Components are generally used to create UI widgets
+(a) Components are generally used to create UI widgets<br>
 (b) Components are used to break the application into smaller pieces of code
 
 </details>
@@ -106,7 +106,7 @@ Which of the following is the correct option to write in Line 4 to print the mes
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-📂 Category: Directives
+📂 Category: Directives<br>
 Item Count: 4
 
 (a) They don’t have a view <br>
@@ -114,7 +114,7 @@ Item Count: 4
 (c) Many can be used per DOM element<br>
 (d) They are used to add behavior to existing DOM element
 
-📂 Category: Components
+📂 Category: Components<br>
 Item Count: 4
 
 (a) Template/TemplateUrl property is mandatory<br>
@@ -129,8 +129,8 @@ Item Count: 4
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-(a) Root Module must be loaded by default to launch the Angular application
-(b) Imports property should contain all module classes to be used across application
+(a) Root Module must be loaded by default to launch the Angular application<br>
+(b) Imports property should contain all module classes to be used across application<br>
 (c) Angular application can be launched even without a root module (with standalone components in Angular 14+)
 
 </details>
