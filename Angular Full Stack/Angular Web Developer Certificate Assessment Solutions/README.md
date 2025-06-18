@@ -205,8 +205,10 @@ Which of the following code when written in app.component.html, would render the
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-✔ <ol> <li *ngFor="let fruit of fruitList; let i = index" >{{i+1}}.{{fruit}}</li> </ol><br>
+```text
+✔ <ol><li *ngFor="let fruit of fruitList; let i = index" >{{i+1}}.{{fruit}}</li></ol><br>
 ✔ <div *ngFor="let fruit of fruitList:let i = index" >{{i+1}}.{{fruit}}<div>
+```
 
 </details>
 
