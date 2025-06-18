@@ -10,8 +10,8 @@ Test your Angular knowledge with these 30 challenging questions. Each question i
 ✅ Answer:<br><br>
 
 <p align="center">
-✔ Change detection algorithm is generated whenever every component is initialized<br>
-✔ Zones detects all asynchronous actions at run time
+✔️ Change detection algorithm is generated whenever every component is initialized<br>
+✔️ Zones detects all asynchronous actions at run time
 </p>
 
 </details>
@@ -20,18 +20,20 @@ Test your Angular knowledge with these 30 challenging questions. Each question i
 Line Interface (CLI) [Select any three]
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
-✔ CLI comes with code generator that helps to generate skeletons of directives, services & component classes<br>
-✔ CLI comes with webpack pre configured for hassle free configuration<br>
-✔ CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+<p align="center">
+✔️ CLI comes with code generator that helps to generate skeletons of directives, services & component classes<br>
+✔️ CLI comes with webpack pre configured for hassle free configuration<br>
+✔️ CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+</p>
 
 </details>
 
 **Question 3:** Tom, a front-end developer wants to update his Angular project to the latest Angular version. Suggest him the possible way.
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ng update @angular/cli @angular/core
+✅ Answer: <p align="center">✔️ ng update @angular/cli @angular/core</p>
 
 </details>
 
@@ -42,14 +44,14 @@ Alex: It is mandatory to use Typescript in Angular
 John: No, it's not mandatory to use TypeScript in Angular
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: John
+✅ Answer: <p align="center">✔️ John</p>
 
 </details>
 
 **Question 5:** Which of the below feature helps in increasing the network performance of an Angular application?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Lazy loading of modules
+✅ Answer: <p align="center">✔️ Lazy loading of modules</p>
 
 </details>
 
@@ -59,17 +61,19 @@ John: No, it's not mandatory to use TypeScript in Angular
 **Question 1:** Which of the following will display "COVID19" when the angular applic ation loads in Browser?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  {{("covid".toUpperCase()) + (10+9)}}
+✅ Answer:  <p align="center">✔️ {{("covid".toUpperCase()) + (10+9)}}</p>
 
 </details>
 
 **Question 2:** Choose the appropriate options that are true regarding an Angular components [Select any two]
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
-(a) Components are generally used to create UI widgets<br>
-(b) Components are used to break the application into smaller pieces of code
+<p align="center">
+✔️ Components are generally used to create UI widgets<br>
+✔️ Components are used to break the application into smaller pieces of code
+</p>
 
 </details>
 
@@ -97,7 +101,11 @@ employeeName: string = "Nolan";
 Which of the following is the correct option to write in Line 4 to print the message "Welcome Nolan"?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: template: "<p>Hello {{employeeName}} </p>"
+✅ Answer: <br><br>
+
+```text
+✔️ template: "<p>Hello {{employeeName}} </p>"
+```
 
 </details>
 
@@ -106,8 +114,9 @@ Which of the following is the correct option to write in Line 4 to print the mes
 <img src="./assets/image.png" alt="question image">
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
+<p align="center">
 📂 Category: Directives<br>
 Item Count: 4
 
@@ -123,17 +132,20 @@ Item Count: 4
 (b) Break application into smaller components<br>
 (c) Design reusable components<br>
 (d) They are used to create UI widgets
+</p>
 
 </details>
 
 **Question 5:** Identify the correct statements about modules in Angular application [Select any three]
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
-(a) Root Module must be loaded by default to launch the Angular application<br>
-(b) Imports property should contain all module classes to be used across application<br>
-(c) Angular application can be launched even without a root module (with standalone components in Angular 14+)
+<p align="center">
+✔️ Root Module must be loaded by default to launch the Angular application<br>
+✔️ Imports property should contain all module classes to be used across application<br>
+✔️ Angular application can be launched even without a root module (with standalone components in Angular 14+)
+</p>
 
 </details>
 
@@ -173,7 +185,7 @@ newArr=[
 What will be the output rendered when the application loads in browser?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  Alice-23 NA Bruno-24
+✅ Answer:  <p align="center">✔️ Alice-23 NA Bruno-24</p>
 
 </details>
 
@@ -205,11 +217,11 @@ Which of the following code when written in app.component.html, would render the
 
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
 ```text
-✔ <ol><li *ngFor="let fruit of fruitList; let i = index" >{{i+1}}.{{fruit}}</li></ol><br>
-✔ <div *ngFor="let fruit of fruitList:let i = index" >{{i+1}}.{{fruit}}<div>
+✔️ <ol><li *ngFor="let fruit of fruitList; let i = index" >{{i+1}}.{{fruit}}</li></ol><br>
+✔️ <div *ngFor="let fruit of fruitList:let i = index" >{{i+1}}.{{fruit}}<div>
 ```
 
 </details>
@@ -227,24 +239,26 @@ export class HighlightDirective (
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: constructor(el: ElementRef) { el.nativeElement.style.backgroundColor = 'yellow'; }
+✅ Answer: <p align="center">✔️ constructor(el: ElementRef) { el.nativeElement.style.backgroundColor = 'yellow'; }</p>
 
 </details>
 
 **Question 4:** Which of the following statements are true about ng-if?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
-✔ ng-if removes the element from the DOM when the condition is false<br>
-✔ ng-if adds the element back to DOM if the condition turns true
+<p align="center">
+✔️ ng-if removes the element from the DOM when the condition is false<br>
+✔️ ng-if adds the element back to DOM if the condition turns true
+</p>
 
 </details>
 
 **Question 5:** Which type of directives necessarily inject a DOM change whenever expression attached to it changes?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ✔ Structural Directives
+✅ Answer: <p align="center">✔️ Structural Directives</p>
 
 </details>
 
@@ -271,7 +285,7 @@ disableFruit: Boolean false;
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  [disabled]="disableFruit"
+✅ Answer:  <p align="center">✔️ [disabled]="disableFruit"</p>
 
 </details>
 
@@ -301,7 +315,7 @@ App.component.html
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Error due to incorrect attribute binding
+✅ Answer: <p align="center">✔️ Error due to incorrect attribute binding</p>
 
 </details>
 
@@ -322,18 +336,18 @@ check: boolean true;
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: [hidden]='check'
+✅ Answer: <p align="center">✔️ [hidden]='check'</p>
 
 </details>
 
 **Question 4:** Identify the appropriate options below: [Select any two]
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
 ```text
-✔ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event">
-✔ <input bindon-ngModel="employee.employeeName">
+✔️ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event">
+✔️ <input bindon-ngModel="employee.employeeName">
 ```
 
 </details>
@@ -362,17 +376,17 @@ else return (error: true)
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  Line-1: name.value Line-2: /^[A-z]+$/
+✅ Answer:  <p align="center">✔️ Line-1: name.value Line-2: /^[A-z]+$/</p>
 
 </details>
 
 **Question 2:** Which among the below is/are an invalid pipe format?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
 ```text
-<p>{{ dob | date: 'month' }}</p>
+✔️ <p>{{ dob | date: 'month' }}</p>
 ```
 
 </details>
@@ -380,7 +394,7 @@ else return (error: true)
 **Question 3:** Which of the forms below are robust and more scalable in Angular Applications?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Reactive Driven Forms
+✅ Answer: <p align="center">✔️Reactive Driven Forms</p>
 
 </details>
 
@@ -389,17 +403,19 @@ else return (error: true)
 Output: Jan 13, 2021
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 
+<p align="center">
 ✔️ {{dob | date}}<br>
 ✔️ {{dob | date: 'mediumDate'}}
+</p>
 
 </details>
 
 **Question 5:** Which of the following is NOT a valid way of using date pipe:
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: {{today | date | 'long'}}
+✅ Answer: <p align="center">✔️{{today | date | 'long'}}</p>
 
 </details>
 
