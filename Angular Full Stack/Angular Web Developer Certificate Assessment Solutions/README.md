@@ -7,7 +7,7 @@ Test your Angular knowledge with these 30 challenging questions. Each question i
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:<br>
+✅ Answer:<br><br>
 
 <p align="center">
 ✔ Change detection algorithm is generated whenever every component is initialized<br>
