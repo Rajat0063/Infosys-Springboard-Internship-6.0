@@ -116,7 +116,6 @@ Which of the following is the correct option to write in Line 4 to print the mes
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
 
-<p align="center">
 📂 Category: Directives<br>
 Item Count: 4
 
@@ -132,7 +131,6 @@ Item Count: 4
 (b) Break application into smaller components<br>
 (c) Design reusable components<br>
 (d) They are used to create UI widgets
-</p>
 
 </details>
 
