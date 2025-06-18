@@ -329,8 +329,10 @@ check: boolean true;
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
+```text
 ✔ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event"><br>
 ✔ <input bindon-ngModel="employee.employeeName">
+```
 
 </details>
 
