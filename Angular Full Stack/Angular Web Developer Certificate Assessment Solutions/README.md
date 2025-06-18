@@ -109,17 +109,17 @@ Which of the following is the correct option to write in Line 4 to print the mes
 📂 Category: Directives
 Item Count: 4
 
-(a) They don’t have a view
-(b) Only one Component per DOM element (implies Directives can be multiple)
-(c) Many can be used per DOM element
+(a) They don’t have a view <br>
+(b) Only one Component per DOM element (implies Directives can be multiple)<br>
+(c) Many can be used per DOM element<br>
 (d) They are used to add behavior to existing DOM element
 
 📂 Category: Components
 Item Count: 4
 
-(a) Template/TemplateUrl property is mandatory
-(b) Break application into smaller components
-(c) Design reusable components
+(a) Template/TemplateUrl property is mandatory<br>
+(b) Break application into smaller components<br>
+(c) Design reusable components<br>
 (d) They are used to create UI widgets
 
 </details>
