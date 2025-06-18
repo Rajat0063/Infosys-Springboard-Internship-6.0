@@ -7,10 +7,12 @@ Test your Angular knowledge with these 30 challenging questions. Each question i
 **Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  
+✅ Answer:<br>
 
-(a) Change detection algorithm is generated whenever every component is initialized<br>
-(b) Zones detects all asynchronous actions at run time
+<p align="center">
+✔ Change detection algorithm is generated whenever every component is initialized<br>
+✔ Zones detects all asynchronous actions at run time
+</p>
 
 </details>
 
@@ -20,9 +22,9 @@ Line Interface (CLI) [Select any three]
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes<br>
-(b) CLI comes with webpack pre configured for hassle free configuration<br>
-(c) CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+✔ CLI comes with code generator that helps to generate skeletons of directives, services & component classes<br>
+✔ CLI comes with webpack pre configured for hassle free configuration<br>
+✔ CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
 
 </details>
 
@@ -367,7 +369,11 @@ else return (error: true)
 **Question 2:** Which among the below is/are an invalid pipe format?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p>{{ dob | date: 'month' }}</p>
+✅ Answer: 
+
+```text
+<p>{{ dob | date: 'month' }}</p>
+```
 
 </details>
 
