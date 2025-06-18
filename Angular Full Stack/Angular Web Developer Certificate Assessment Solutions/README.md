@@ -101,7 +101,7 @@ Which of the following is the correct option to write in Line 4 to print the mes
 
 **Question 4:** 
 
-<img src="./assets/image.png" alt="question image>
+<img src="./assets/image.png" alt="question image">
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
