@@ -136,7 +136,7 @@ Item Count: 4
 </details>
 
 
-## Directives
+## <h1 align="center">Directives</h1>
 
 **Question 1:** Consider the below code given in respective files of an angular application:
 
