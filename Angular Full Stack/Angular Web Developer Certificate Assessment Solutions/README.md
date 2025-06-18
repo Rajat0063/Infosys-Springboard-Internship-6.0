@@ -330,7 +330,7 @@ check: boolean true;
 ✅ Answer: 
 
 ```text
-✔ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event"><br>
+✔ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event">
 ✔ <input bindon-ngModel="employee.employeeName">
 ```
 
@@ -339,50 +339,61 @@ check: boolean true;
 
 ## <h1 align="center">Pipes and Forms</h1>
 
-**Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
+**Question 1:** Consider the below code as a custom validator to validate the value customerName form control.
+
+[note: name should contain only alphabets]
+
+```typescript
+function validateName(name: FormControl) (
+
+let value
+
+Line-1
+
+if (value.match( Line-2
+
+)) return null
+
+else return (error: true)
+
+}
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  
-
-(a) Change detection algorithm is generated whenever every component is initialized
-(b) Zones detects all asynchronous actions at run time
+✅ Answer:  Line-1: name.value Line-2: /^[A-z]+$/
 
 </details>
 
-**Question 2:** Choose the appropriate statement(s) regarding Angular Command
-Line Interface (CLI) [Select any three]
+**Question 2:** Which among the below is/are an invalid pipe format?
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p>{{ dob | date: 'month' }}</p>
+
+</details>
+
+**Question 3:** Which of the forms below are robust and more scalable in Angular Applications?
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: Reactive Driven Forms
+
+</details>
+
+**Question 4:** Which among the following interpolation/s of dob will result in the below output where dob = Wed Jan 13 2021 14:06:25 GMT+0530 (India Standard Time)? [Select any two]
+
+Output: Jan 13, 2021
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
 
-(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes
-(b) CLI comes with webpack pre configured for hassle free configuration
-(c) CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+✔️ {{dob | date}}<br>
+✔️ {{dob | date: 'mediumDate'}}
 
 </details>
 
-**Question 3:** Tom, a front-end developer wants to update his Angular project to the latest Angular version. Suggest him the possible way.
+**Question 5:** Which of the following is NOT a valid way of using date pipe:
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ng update @angular/cli @angular/core
-
-</details>
-
-**Question 4:** Guess who is right from the below conversation.
-
-Alex: It is mandatory to use Typescript in Angular
-
-John: No, it's not mandatory to use TypeScript in Angular
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: John
-
-</details>
-
-**Question 5:** Which of the below feature helps in increasing the network performance of an Angular application?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Lazy loading of modules
+✅ Answer: {{today | date | 'long'}}
 
 </details>
 
