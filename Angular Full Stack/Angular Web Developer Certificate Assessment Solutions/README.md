@@ -99,7 +99,9 @@ Which of the following is the correct option to write in Line 4 to print the mes
 
 </details>
 
-**Question 4:** <img src="./assets/image.png" alt="question image>
+**Question 4:** 
+
+<img src="./assets/image.png" alt="question image>
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: 
