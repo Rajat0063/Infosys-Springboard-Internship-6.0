@@ -330,7 +330,6 @@ check: boolean true;
 ✅ Answer: 
 
 ✔ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event"><br>
-
 ✔ <input bindon-ngModel="employee.employeeName">
 
 </details>
