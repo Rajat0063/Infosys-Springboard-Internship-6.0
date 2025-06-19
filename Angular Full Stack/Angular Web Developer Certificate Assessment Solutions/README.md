@@ -563,99 +563,223 @@ What should be written in Line 1 and Line 2 to send the value of course from app
 
 ## <h1 align="center">DI & Services</h1>
 
-**Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
+**Question 1:** Consider the below given import statements.
+
+```typescript
+import { HttpClient } from '@angular/common/http';
+
+import { HttpClientModule} from '@angular/common/http'
+```
+Which of the following is/are true regarding the same?[Select any two]
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  
+✅ Answer:  <br><br>
 
-(a) Change detection algorithm is generated whenever every component is initialized
-(b) Zones detects all asynchronous actions at run time
+<p align="center">
+✔️ HttpClientModule should be imported and used in imports array in app.module.ts<br>
+✔️ HttpClient should be imported and used in the newly created service
+</p>
 
 </details>
 
-**Question 2:** Choose the appropriate statement(s) regarding Angular Command
-Line Interface (CLI) [Select any three]
+**Question 2:** Which of the below is not a type of Subject?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
-
-(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes
-(b) CLI comes with webpack pre configured for hassle free configuration
-(c) CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+✅ Answer: <p align="center">✔️ MultiCastSubject</p>
 
 </details>
 
-**Question 3:** Tom, a front-end developer wants to update his Angular project to the latest Angular version. Suggest him the possible way.
+**Question 3:** Predict the log statement of below code snippet. All necessary imports are done.
+
+```typescript
+@Injectable()
+
+export class HelloService [
+
+counter
+
+new Observable(
+
+data => {
+
+data.next(1);
+
+data.error('Some Error Occurred');
+
+data.complete();
+
+1
+
+)
+
+timer
+
+this.counter.subscribe(
+
+data> console.log(data),
+
+error => console.log(error),
+
+()> console.log('Data completion occurred')
+
+)
+
+}
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ng update @angular/cli @angular/core
+✅ Answer: <br><br>
+
+<p align="center">
+✔️ 1<br>
+Some Error Occurred
+</p>
 
 </details>
 
-**Question 4:** Guess who is right from the below conversation.
-
-Alex: It is mandatory to use Typescript in Angular
-
-John: No, it's not mandatory to use TypeScript in Angular
+**Question 4:** Which of the below is not an rxjs operator?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: John
+✅ Answer: <p align="center">✔️ throw</p>
 
 </details>
 
-**Question 5:** Which of the below feature helps in increasing the network performance of an Angular application?
+**Question 5:** Consider the below data returned by getEmployees() method of ViewService:
+
+```typescript
+{
+
+["empId":780319, "eName": "Dolly", "exp":5},
+
+("empId":780315, "eName": "Jatin", "exp":6),
+
+("empId":770315, "eName": "Unlord", "exp":3}
+
+J
+
+Using which of the below code snippets, the empList property will have only those employee data where experience is
+
+[Option A]
+
+export class DisplayComponent implements OnInit{
+
+emplist: Employee[];
+
+constructor(private ss: ViewService) {}
+
+ngOnInit() {
+
+this.ss.getEmployees().subscribe(
+
+data => {this.empList = data.map(>.exp > 5); }
+
+);
+
+}
+
+}
+
+[option B]
+
+export flans Displaytomponent implements OnInit
+
+emplist Employee li
+
+constructor (private ss: ViewService) {}
+
+ngonInit() (
+
+this-ss.gettmployees().subscribe(
+
+data (this.emplist data.filter(exp > 5); )
+
+),
+
+}
+}
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Lazy loading of modules
+✅ Answer: <p align="center">✔️ Both A and B</p>
 
 </details>
 
 
 ## <h1 align="center">Routing</h1>
 
-**Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
+**Question 1:** Which of the below property in template helps in navigating to a particular route path in Angular?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  
-
-(a) Change detection algorithm is generated whenever every component is initialized
-(b) Zones detects all asynchronous actions at run time
+✅ Answer:  <p align="center">✔️ routerLink</p>
 
 </details>
 
-**Question 2:** Choose the appropriate statement(s) regarding Angular Command
-Line Interface (CLI) [Select any three]
+**Question 2:** Consider the below route defined in an angular application:
+
+```typescript
+const routes: Routes[
+
+{ path: 'profile/:name', component: ProfileComponent),
+
+1;
+
+Which of the following angular module needs to be used in ProfileComponent to fetch the value of http://localhost:420
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
-
-(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes
-(b) CLI comes with webpack pre configured for hassle free configuration
-(c) CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+✅ Answer: <p align="center">✔️ ActivatedRoute</p>
 
 </details>
 
-**Question 3:** Tom, a front-end developer wants to update his Angular project to the latest Angular version. Suggest him the possible way.
+**Question 3:** Which among the below statements is incorrect with respect to Angular routing?
+
+```typescript
+const appRoutes: Routes = [ { path: 'home', component: HomeComponent, canActivate:
+
+[LoginGuard]).
+
+{ path: 'product', component: ProductComponent, canActivate:
+
+[LoginGuard]} ];
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ng update @angular/cli @angular/core
+✅ Answer: <p align="center">✔️ canActivate is mandatory for all the route configurations</p>
 
 </details>
 
-**Question 4:** Guess who is right from the below conversation.
+**Question 4:** Which among the below statements is/are incorrect with respect to below routing configuration?
 
-Alex: It is mandatory to use Typescript in Angular
+```typescript
+const appRoutes: Routes = [{ path: 'home', component: HomeComponent, loadChildren: () =>
 
-John: No, it's not mandatory to use TypeScript in Angular
+import('./home/home.module').then(home => home.HomeModule), canActivate: [LoginGuard]
+
+), (path: 'product', component: ProductComponent, canActivate: [LoginGuard] }. { path: '**', component: PageNotFound Componer}]
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: John
+✅ Answer: <p align="center">✔️ HomeComponent is loaded only when requested by user</p>
 
 </details>
 
-**Question 5:** Which of the below feature helps in increasing the network performance of an Angular application?
+**Question 5:** Which component will be loaded if the user navigates to the url http://localhost:4200/book?
+
+```typescript
+const route: Routes = [
+
+{path: ' ', component: HomeComponent),
+
+(path: 'book/:id', component: BookDetailComponent),
+
+(path: '**', component: ViewComponent),
+
+{path: 'book', component: BookComponent}
+
+};
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Lazy loading of modules
+✅ Answer: <p align="center">✔️ ViewComponent</p>
 
 </details>
