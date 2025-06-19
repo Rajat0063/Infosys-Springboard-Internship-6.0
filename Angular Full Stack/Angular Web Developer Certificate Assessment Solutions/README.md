@@ -420,50 +420,143 @@ Output: Jan 13, 2021
 
 ## <h1 align="center">Component Communication & LifeCycle</h1>
 
-**Question 1:** Which of the following statements are true regarding Angular change detection? [Select any 2]
+**Question 1:** Which among the below is/are right approach for applying a font size of 20px to an element in Angular?[Select any three]
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer:  
 
-(a) Change detection algorithm is generated whenever every component is initialized
-(b) Zones detects all asynchronous actions at run time
+```text
+✔️ <p [style.fontSize.px]="20">First Styling</p>
+✔️ <p [style.fontSize]="'20px'">Second Styling</p>
+✔️ <p [ngStyle]="{fontSize: '20px'}">First Styling</p>
+```
 
 </details>
 
-**Question 2:** Choose the appropriate statement(s) regarding Angular Command
-Line Interface (CLI) [Select any three]
+**Question 2:** Rearrange the steps to be followed when developing a reactive driven form:
+
+A.Run the form app on browser<br>
+B.Create formGroup<br>
+C.Create template<br>
+D.Add elements to formGroup
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
-
-(a) CLI comes with code generator that helps to generate skeletons of directives, services & component classes
-(b) CLI comes with webpack pre configured for hassle free configuration
-(c) CLI tool is generally much easier for an expert over a beginner (selected as the third, though it's subjective but acceptable in multiple-choice context)
+✅ Answer: <p align="center">✔️ CBDA</p>
 
 </details>
 
-**Question 3:** Tom, a front-end developer wants to update his Angular project to the latest Angular version. Suggest him the possible way.
+**Question 3:** Predict the output of below code snippet.
+
+```typescript
+app.component.ts
+
+import (Component) from "@angular/core";
+
+@Component((
+
+selector:
+
+"my-app",
+
+template:
+
+<div>
+
+<h3>Parent Component</h3>
+
+<app-hello [property1]="parent Property"></app-hello>
+
+</div>
+
+))
+
+export class AppComponent {
+
+parentProperty = 'Cristiano Ronaldo';
+
+}
+
+hello.component.ts
+
+import (Component, Input from "@angular/core";
+
+@Component({
+
+selector: "app-hello",
+
+template: Hello...((childProperty | uppercase}}
+
+})
+
+export class HelloComponent {
+
+childProperty 'Lionel Messi';
+
+@Input() set property1(data: string) (
+
+this.childProperty data;
+
+}
+
+}
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ng update @angular/cli @angular/core
+✅ Answer: <p align="center">✔️ CRISTIANO RONALDO</p>
 
 </details>
 
-**Question 4:** Guess who is right from the below conversation.
+**Question 4:** Consider the below given code in respective files of an angular application:
 
-Alex: It is mandatory to use Typescript in Angular
+```typescript
+<!-- app.component.html -->
 
-John: No, it's not mandatory to use TypeScript in Angular
+<input type="text" [(ngModel)]="course">
+
+<button (click)="showCourse=true">Send Course</button>
+
+<div *ngIf="showCourse">
+
+<app-course_Line 1_></app-course>
+
+</div>
+
+/* app.component.ts */
+
+course: string;
+
+<!-- course.component.html -->
+
+You have selected {{selectedCourse}}
+
+/* course.component.ts */
+
+@Input() /* Line 2*/
+```
+What should be written in Line 1 and Line 2 to send the value of course from app component (parent) tocourse component (child)?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: John
+✅ Answer: <p align="center">✔️ Line 1-[selectedCourse]="course" Line 2-selectedCourse</p>
 
 </details>
 
-**Question 5:** Which of the below feature helps in increasing the network performance of an Angular application?
+**Question 5:** Which of the below property of view encapsulation helps in components styles to over-ride based on its sequence of selector?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Lazy loading of modules
+✅ Answer: <p align="center">✔️ None</p>
+
+</details>
+
+**Question 6:** Which among the below statement/s is/are incorrect with respect to nested components?[Select any two]
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:  <br><br>
+
+<p align="center">
+✔️ "Data is sent from parent component to child component always as an event"
+
+✔️ "Only objects can be passed from parent component to child component"
+</p>
 
 </details>
 
