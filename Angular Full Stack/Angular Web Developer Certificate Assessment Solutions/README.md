@@ -55,6 +55,35 @@ John: No, it's not mandatory to use TypeScript in Angular
 
 </details>
 
+**Question 6:** <img src="./assets/i_1.png" alt="Extra1 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">
+✔️ Modules<br>
+✔️ Components<br>
+✔️ Services
+</p>
+
+</details>
+
+**Question 7:** <img src="./assets/i_2.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">
+✔️ Angular has faster initial loads and improved change detection
+</p>
+
+</details>
+
+**Question 8:** <img src="./assets/i_3.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">
+✔️ ng serve --open
+</p>
+
+</details>
+
 
 ## <h1 align="center">Components, Modules and Templates</h1>
 
@@ -838,6 +867,40 @@ data (this.emplist data.filter(exp > 5); )
 
 </details>
 
+**Question 6:** <img src="./assets/d,s_1.png" alt="Extra1 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+
+📂 Category: Promises<br>
+Item Count: 1
+
+✔️ It provides only.then() clause for handling complex applications<br>
+✔️ executes immediately post creation<br>
+✔️ can handle only one data at a time
+
+📂 Category: Obervables<br>
+Item Count: 1
+
+✔️ Computation starts only after subscription so that it can be run whenever the result is needed<br>
+✔️ handles multiple data over time<br>
+✔️ Provides chaining and subscription to handle complex applications
+
+</details>
+
+**Question 7:** <img src="./assets/d,s,_2.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:  <br><br>
+
+<p align="center">
+✔️ Observable is an object used to handle both synchronous and asynchronous data streams<br>
+✔️ Observables are more advanced to JavaScript promises
+
+</p>
+
+</details>
+
 
 ## <h1 align="center">Routing</h1>
 
@@ -915,5 +978,19 @@ const route: Routes = [
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <p align="center">✔️ ViewComponent</p>
+
+</details>
+
+**Question 6:** <img src="./assets/r_1.png" alt="Extra1 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:  <p align="center">✔️ canActivate</p>
+
+</details>
+
+**Question 7:** <img src="./assets/r_2.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:  <p align="center">✔️ CompanyComponent will be rendered if LoginGuardService returns true</p>
 
 </details>
