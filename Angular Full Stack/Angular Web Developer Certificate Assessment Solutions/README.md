@@ -147,6 +147,26 @@ Item Count: 4
 
 </details>
 
+**Question 6:** <img src="./assets/c,mt_1.png" alt="extra1 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: 
+<p align="center">
+✔️ Both B and C
+</p>
+
+</details>
+
+**Question 7:** <img src="./assets/c,m,t_12.png" alt="extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: 
+<p align="center">
+✔️ External Template Sheets
+</p>
+
+</details>
+
 
 ## <h1 align="center">Directives</h1>
 
@@ -260,6 +280,42 @@ export class HighlightDirective (
 
 </details>
 
+**Question 6:** <img src="./assets/d_1.png" alt="Extra1 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">✔️ 5444</p>
+
+</details>
+
+**Question 7:** <img src="./assets/d_2.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+
+📂 Category: Attribute Directives<br>
+Item Count: 1
+
+✔️ These directives change the appearance or behavior of a DOM element, component or any other directive
+
+📂 Category: Structural Directive<br>
+Item Count: 1
+
+✔️ These directives change DOM layout by adding / removing DOM elements
+
+📂 Category: Components<br>
+Item Count: 1
+
+✔️ These are directives with a template
+
+</details>
+
+**Question 8:** <img src="./assets/d_3.png" alt="Extra3 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">✔️ None of the other options</p>
+
+</details>
+
 
 ## <h1 align="center">Data Binding</h1>
 
@@ -350,28 +406,24 @@ check: boolean true;
 
 </details>
 
+**Question 5:** <img src="./assets/d,b_1.png" alt="Extra1 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">✔️ [style.color]="blue"</p>
+
+</details>
+
+**Question 6:** <img src="./assets/d,b_2.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">✔️ [(ngModel)]="userName"</p>
+
+</details>
+
 
 ## <h1 align="center">Pipes and Forms</h1>
 
-**Question 1:** Consider the below code as a custom validator to validate the value customerName form control.
-
-[note: name should contain only alphabets]
-
-```typescript
-function validateName(name: FormControl) (
-
-let value
-
-Line-1
-
-if (value.match( Line-2
-
-)) return null
-
-else return (error: true)
-
-}
-```
+**Question 1:** <img src="./assets/p,f.png" alt="Image">
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer:  <p align="center">✔️ Line-1: name.value Line-2: /^[A-z]+$/</p>
@@ -413,7 +465,22 @@ Output: Jan 13, 2021
 **Question 5:** Which of the following is NOT a valid way of using date pipe:
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️{{today | date | 'long'}}</p>
+✅ Answer: <p align="center">✔️ {{today | date | 'long'}}</p>
+
+</details>
+
+**Question 6:** <img src="./assets/p,f_1.png" alt="Extra1 Image"><br>
+<img src="./assets/p,f_11.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">✔️ Only option A</p>
+
+</details>
+
+**Question 6:** <img src="./assets/p,f_2.png" alt="Extra3 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <p align="center">✔️ "13/1/21"</p>
 
 </details>
 
@@ -556,6 +623,73 @@ What should be written in Line 1 and Line 2 to send the value of course from app
 ✔️ "Data is sent from parent component to child component always as an event"
 
 ✔️ "Only objects can be passed from parent component to child component"
+</p>
+
+</details>
+
+**Question 7:** <img src="./assets/c,c,l_1.png" alt="Extra1 Image"><br>
+<img src="./assets/c,c,l11.png" alt="Extra2 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:  <br><br>
+
+<p align="center">
+✔️ ngOnChanges()<br>
+✔️ ngOnInit()<br>
+✔️ ngDoCheck()<br>
+✔️ ngAfterContentInit()<br>
+✔️ ngAfterContentChecked()<br>
+✔️ ngAfterViewInit()<br>
+✔️ ngAfterViewChecked()<br>
+✔️ ngOnDestroy()<br>
+</p>
+
+</details>
+
+**Question 8:** <img src="./assets/c,c,l_2.png" alt="Extra3 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:
+
+<p align="center">
+✔️ <child2></child2><app-child1></app-child1>
+</p>
+
+</details>
+
+**Question 9:** <img src="./assets/c,c,l_3.png" alt="Extra4 Image"><br>
+<img src="./assets/c,c,l_31.png" alt="Extra5 Image"><br>
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:
+
+<p align="center">
+✔️ Neither Code Snippet-1 nor Code Snippet-2
+</p>
+
+</details>
+
+**Question 10:** <img src="./assets/c,c,l_4.png" alt="Extra6 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:
+
+<p align="center">
+✔️ Line 1 - (event)="getNumber($event)" Line 2 - this.event.emit(200)
+</p>
+
+</details>
+
+**Question 11:** <img src="./assets/c,c,l_5.png" alt="Extra7 Image">
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer:
+
+<p align="center">
+✔️ inside ngOnInit<br>
+inside constructor<br>
+inside ngDoCheck<br>
+inside ngDoCheck
 </p>
 
 </details>
