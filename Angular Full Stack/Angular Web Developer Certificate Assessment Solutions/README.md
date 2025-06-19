@@ -649,11 +649,11 @@ What should be written in Line 1 and Line 2 to send the value of course from app
 **Question 8:** <img src="./assets/c,c,l_2.png" alt="Extra3 Image">
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:
+✅ Answer: <br><br>
 
-<p align="center">
+```text
 ✔️ <child2></child2><app-child1></app-child1>
-</p>
+```
 
 </details>
 
