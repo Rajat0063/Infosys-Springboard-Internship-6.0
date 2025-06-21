@@ -7,7 +7,8 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 | Topic        | Video Link                                                                 | Duration                          |
 |--------------|----------------------------------------------------------------------------|--------------------------------------------|
 | JavaScript   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/qIhsQiETTw0) | 2m 57sec |
-| Angular      | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/vckc8c24p_E) | 3m 26sec |
+| Angular      | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/Oy2HWnEP-zs) | 3m 26sec |
+| Angular Web Devloper   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/UYEf7yNHYJY) | 5m 37sec |
 | Twitter Bootstrap    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/jk6vzNhhnVw) | 3m 19sec |
 | TypeScript   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/UYEf7yNHYJY) | 3m 39sec |
 
@@ -37,5 +38,3 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 🔔 *Subscribe to the channels for updates*  
 💬 *Comment on videos with questions*  
 ⭐ *Star this repo if you found it helpful*
-
-https://youtu.be/Oy2HWnEP-zs
