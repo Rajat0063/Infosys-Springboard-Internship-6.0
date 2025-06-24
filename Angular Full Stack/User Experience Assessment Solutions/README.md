@@ -27,14 +27,19 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 3:** How does user research contribute to the UX design process?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ ng update @angular/cli @angular/core</p>
+✅ Answer: <br><br>
+<p align="center">
+✔️ By providing understanding into user behaviour and preferences
+✔️ By reducing website loading time
+</p>
 
 </details>
 
 **Question 4:** Which of the following factors can be used to create visual hierarchy?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ All of the above</p>
+✅ Answer: <br><br>
+<p align="center">✔️ All of the above</p>
 
 </details>
 
@@ -43,9 +48,11 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
 
-<p align="center">✔️ It is an essential part of the design process.<br>
+<p align="center">
+✔️ It is an essential part of the design process.<br>
 ✔️ It is easy to modify and iterate based on feedback.<br>
-✔️ It is used to validate design concepts and ideas early in the design process.</p>
+✔️ It is used to validate design concepts and ideas early in the design process.
+</p>
 
 </details>
 
@@ -66,8 +73,10 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 7:** Which of the following are considered component(part) of UX?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">
-✔️ Angular has faster initial loads and improved change detection
+✅ Answer: <br><br>
+<p align="center">
+✔️ Information Architecture<br>
+✔️ Content approach
 </p>
 
 </details>
@@ -75,7 +84,8 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 8:** Describe the concept of "usability" in the context of UX design.
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">
+✅ Answer: <br><br>
+<p align="center">
 ✔️ The degree to which a product can be used by specified users to achieve goals effectively, efficiently, and satisfactorily.
 </p>
 
@@ -84,7 +94,8 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 9:** Which of the following is(are) not the emerging technologies in UX?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  <p align="center">✔️ Traditional Forms</p>
+✅ Answer:  <br><br>
+<p align="center">✔️ Traditional Forms</p>
 
 </details>
 
@@ -145,7 +156,7 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 
 **Question 15:** Usability testing is a one-time activity and does not need to be repeated once issues are identified and fixed.
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 
+✅ Answer: <br><br>
 <p align="center">
 ✔️ false
 </p>
@@ -178,7 +189,8 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 18:** Choice of color has no impact on user experience.
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ false</p>
+✅ Answer: <br><br>
+<p align="center">✔️ false</p>
 
 </details>
 
@@ -196,14 +208,20 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 20:** What is the importance of identifying the target audience in product design?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ It ensures the product meets the specific needs of a particular group of users.</p>
+✅ Answer: <br><br>
+<p align="center">✔️ It ensures the product meets the specific needs of a particular group of users.</p>
 
 </details>
 
 **Question 21:** Some of the tools available to map user journeys are:
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ 5444</p>
+✅ Answer: <br><br>
+<p align="center">
+✔️ Flowcharts<br>
+✔️ Diagrams<br>
+✔️ Storyboards
+</p>
 
 </details>
 
@@ -221,28 +239,39 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 23:** Which of the following keyword(s) is(are) related to the Color palette?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ None of the other options</p>
+✅ Answer: <br><br>
+<p align="center">
+✔️ Contrast<br>
+✔️ Accessibility
+</p>
 
 </details>
 
 **Question 24:** Some of the evolving user expectations with respect to UX are:
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  <p align="center">✔️ [disabled]="disableFruit"</p>
+✅ Answer:  <br><br>
+<p align="center">
+✔️ Speed<br>
+✔️ Inclusivity<br>
+✔️ Data Privacy
+</p>
 
 </details>
 
 **Question 25:** Texture and pattern can be used to create visual hierarchy.
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ true</p>
+✅ Answer: <br><br>
+<p align="center">✔️ true</p>
 
 </details>
 
 **Question 26:** Data analysis part of usability testing involves Looking for patterns, trends, and common issues that emerged during the test
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ true</p>
+✅ Answer: <br><br>
+<p align="center">✔️ true</p>
 
 </details>
 
@@ -251,31 +280,42 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
 
-```text
-✔️ <input [ngModel]="employee.employeeName" (ngModelChange)="employee.employeeName = $event">
-✔️ <input bindon-ngModel="employee.employeeName">
-```
+<p align="center">
+✔️ To create visual hierarchy and enhance readability
+</p>
 
 </details>
 
 **Question 28:** Which of the following are key principles of responsive design?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ [style.color]="blue"</p>
+✅ Answer: <br><br>
+<p align="center">
+✔️ Fluid grids<br>
+✔️ Flexible images<br>
+✔️ Media queries
+</p>
 
 </details>
 
 **Question 29:** User research involves understanding the needs of users through methods such as:
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ [(ngModel)]="userName"</p>
+✅ Answer: <br><br>
+<p align="center">
+✔️ Surveys<br>
+✔️ Interviews<br>
+✔️ Usability testing
+</p>
 
 </details>
 
 **Question 30:** What is accessibility in the context of user experience?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer:  <p align="center">✔️ Line-1: name.value Line-2: /^[A-z]+$/</p>
+✅ Answer:  <br><br>
+<p align="center">✔️ The ability of a product to be used by people with disabilities.
+</p>
 
 </details>
 
@@ -284,16 +324,18 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
 
-```text
-✔️ <p>{{ dob | date: 'month' }}</p>
-```
+<p align="center">
+✔️ Keyboard navigation<br>
+✔️ Text-to-speech functionality
+</p>
 
 </details>
 
 **Question 32:** "Progressive enhancement" involves starting with a more advanced features and styles for devices that support them.
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ false</p>
+✅ Answer: <br><br>
+<p align="center">✔️ false</p>
 
 </details>
 
@@ -303,8 +345,7 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 ✅ Answer: <br><br>
 
 <p align="center">
-✔️ {{dob | date}}<br>
-✔️ {{dob | date: 'mediumDate'}}
+✔️ false
 </p>
 
 </details>
@@ -312,21 +353,24 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 **Question 34:** Wireframing tools are software applications used by designers and developers to create wireframes, which are visual representations of a website or application's layout and functionality.
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ true</p>
+✅ Answer: <br><br>
+<p align="center">✔️ true</p>
 
 </details>
 
 **Question 35:** Which emerging technology is described by the following example? "Creates simulated environments."
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Only option A</p>
+✅ Answer: <br><br>
+<p align="center">✔️ Virtual Reality (VR)</p>
 
 </details>
 
 **Question 36:** What are some key factors to consider when designing for accessibility in UX?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ "13/1/21"</p>
+✅ Answer: <br><br>
+<p align="center">✔️ Color contrast, keyboard navigation, and screen reader compatibility</p>
 
 </details>
 
@@ -343,26 +387,26 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 
 **Question 38:** Which principle is demonstrated by the following example? "Using a larger font size for headings."
 
-A.Run the form app on browser<br>
-B.Create formGroup<br>
-C.Create template<br>
-D.Add elements to formGroup
-
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ CBDA</p>
+✅ Answer: <br><br>
+<p align="center">✔️ ize</p>
 
 </details>
 
 **Question 39:** What is the difference between quantitative and qualitative research methods in UX?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ CRISTIANO RONALDO</p>
+✅ Answer: <br><br>
+<p align="center">✔️ Quantitative research focuses on numbers and qualitative research focuses on text or images.<br>
+✔️ Quantitative research uses surveys, while qualitative research uses interviews.
+</p>
 
 </details>
 
 **Question 40:** Data analysis involves:
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Both A&B</p>
+✅ Answer: <br><br>
+<p align="center">✔️ Both A&B</p>
 
 </details>
