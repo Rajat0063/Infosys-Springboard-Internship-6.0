@@ -7,6 +7,7 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 | Topic        | Video Link                                                                 | Duration                          |
 |--------------|----------------------------------------------------------------------------|--------------------------------------------|
 | Learning Power BI   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/OYw-v6kJTu8) | 2m 48sec |
+| Power BI for Business Professionals   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/roHsHu6ToqQ) | 1m 59sec |
 
 ## 💯 Why These Work
 
