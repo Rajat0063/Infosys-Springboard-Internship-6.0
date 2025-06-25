@@ -29,7 +29,7 @@ Test your User Experience knowledge with these 40 challenging questions. Each qu
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
 <p align="center">
-✔️ By providing understanding into user behaviour and preferences
+✔️ By providing understanding into user behaviour and preferences<br>
 ✔️ By reducing website loading time
 </p>
 
