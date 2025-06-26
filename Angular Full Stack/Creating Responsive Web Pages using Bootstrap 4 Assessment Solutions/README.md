@@ -1,6 +1,6 @@
 # Creating Responsive Web Pages using Bootstrap 4 Quiz Questions
 
-Test your Responsive Web Pages using Bootstrap 4 knowledge with these 20 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+Test your Responsive Web Pages using Bootstrap 4 knowledge with these 28 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
 **Question 1:** Select the correct statement from the options below
 
@@ -68,7 +68,7 @@ Test your Responsive Web Pages using Bootstrap 4 knowledge with these 20 challen
 ✅ Answer: <br><br>
 
 <p align="center">
-✔️ .table-bordered
+✔️ .table-striped
 </p>
 
 </details>
@@ -113,9 +113,9 @@ Test your Responsive Web Pages using Bootstrap 4 knowledge with these 20 challen
 
 </details>
 
-**Question 9:** There is a page that contains a navbar, an image, and a table.<br><br>
+**Question 9:** There is a page that contains a navbar, an image, and a table.<br>
 
-The table and image are made responsive using appropriate bootstrap classes.<br><br>
+The table and image are made responsive using appropriate bootstrap classes.<br>
 
 Which bootstrap class will resize the navbar into vertically stacked links on small screens?
 
@@ -215,7 +215,9 @@ Choose the correct statements from the options below.
 ✅ Answer: <br><br>
 
 <p align="center">
-✔️ a badge must be affixed inside the button tag
+✔️ a badge must be attached to h2 tag<br>
+✔️ a badge must be attached to p tag<br>
+✔️ a badge must be affixed outside button tag
 </p>
 
 </details>
@@ -282,7 +284,7 @@ Choose the correct statements from the options below.
 
 <p align="center">
 ✔️ The grey div will have 3 lines of text vertically aligned one below the other<br>
-✔️ The grey div will have 3 lines of text vertically aligned one below the other
+✔️ The beige div and grey div will have equal vertical length but unequal horizontal width
 </p>
 
 </details>
@@ -295,7 +297,7 @@ Choose the correct statements from the options below.
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
-<p align="center">✔️ A dark navbar with dark text that displays links inside a menu on medium screens
+<p align="center">✔️ A dark navbar with dark text that displays links vertically on medium screens
 </p>
 
 </details>
@@ -318,6 +320,151 @@ Which combination of dimensions for Div 1 and Div 2 will fit the browser window 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
 <p align="center">✔️ Both options 1 and 2
+</p>
+
+</details>
+
+**Question 21:** Pavlov has written the below code to create a form.
+
+```typescript
+ <form action="/action_page.php">
+    <div class="form-check-inline">
+   <label class="form-check-label" for="radio1">
+      <input type="radio" class="form-check-input" name="radio1">Option 1
+    </label> </div>
+        <div class="form-check-inline">
+   <label class="form-check-label" for="radio1">
+      <input type="radio" class="form-check-input" name="radio1">Option 2
+    </label> </div>
+        <div class="form-check-inline">
+   <label class="form-check-label" for="radio1">
+      <input type="radio" class="form-check-input" name="radio1">Option 3
+    </label> </div>
+  </form>
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+<p align="center">✔️ Only Option 1 and Option 2 are inline
+</p>
+
+</details>
+
+**Question 22:** Which of the following will result in overflow of grid system?<br>
+
+Assume all the below snippets are encased inside a row. (Select any two)
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+
+```text
+✔️ <div class="col-md-7"> <div class="col-md-7"> <div class="col-md-6">
+✔️ <div class="col-md-6"> <div class="col-md-5"> <div class="col-md-3">
+```
+
+</details>
+
+**Question 23:** The correct syntax of creating a standard navigation bar is -
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+
+```text
+✔️ <nav class = "navbar navbar-default">
+```
+
+</details>
+
+**Question 24:** Which of the code snippets below shows the correct way of creating form with input elements?
+
+```typescript
+[Option A]
+<form>
+   <div class="form-group">
+       <label class="form-inline"> Username 
+        <input type="text" class="form-control"></label>
+        <label class="form-inline">Password
+        <input type="password" class="form-control"></label>
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+
+
+[Option B ]
+<div class="form-inline">
+    <div class="form-group">
+         <label> Username </label>
+         <input type="text" class="form-control">
+    </div>
+    <div class="form-group">
+         <label>Password</label>  
+         <input type="password" class="form-control">
+    </div>
+    <button type="submit" class="btn btn-primary">Submit</button>
+</div>
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+<p align="center">✔️ Only A
+</p>
+
+</details>
+
+**Question 25:** Which navbar classes should be used in the code below to create a collapsible navigation bar?
+
+```typescript
+<button class="__1__" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+    <span class="navbar-toggler-icon"></span>
+</button>
+<div class="__2__" id="__3__">(navbar links)</div>
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+<p align="center">✔️ (1) navbar-toggler, (2) collapse navbar-collapse, (3) collapsibleNavbar
+</p>
+
+</details>
+
+**Question 26:** Which of the following is correct about Bootstrap Responsive Images?
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+<p align="center">✔️ Both the options
+</p>
+
+</details>
+
+**Question 27:** How can the below heading be converted to display text?
+
+```typescript
+<h3>This is a heading</h3>
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+<p align="center">✔️ class="display-1"
+</p>
+
+</details>
+
+**Question 28:** Fill in the blanks in order to align the checkboxes in their default arrangement.
+
+```typescript
+<div class="_____1_____">
+      <label class="_____2_____">
+      <input class="_____3_____" type="checkbox" name="term">I accept</label>
+</div>
+<div>
+      <label>
+      <input  type="checkbox" name="term">I Decline</label>
+</div>
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br><br>
+<p align="center">✔️ "form-check", "form-check-label", "form-check-input"
 </p>
 
 </details>
