@@ -24,7 +24,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 
 </details>
 
-**Question 3:** Graph can be expanded by using the option?
+**Question 3:** Graph can be expanded by using the _____ option?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -75,7 +75,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 
 </details>
 
-**Question 8:** one can connect to Dataverse through its ?
+**Question 8:** one can connect to Dataverse through its _____ ?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -224,7 +224,7 @@ True
 
 </details>
 
-**Question 23:** one can set number of rounded corners?
+**Question 23:** one can set _____ number of rounded corners?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -260,7 +260,7 @@ True
 
 </details>
 
-**Question 27:** The option is used to add, edit or remove relationships between tables?
+**Question 27:** The _____ option is used to add, edit or remove relationships between tables?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
