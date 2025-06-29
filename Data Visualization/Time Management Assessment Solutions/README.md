@@ -27,7 +27,7 @@ Test your Time Management knowledge with these 10 challenging questions. Each qu
 **Question 4:** Ravi plans for a busy day ahead. But he meets with a crisis situation which takes some 2 hrs more than he expected and hence cannot have lunch and at the end of the day he feels exhausted. What is a suitable advice which you can give Ravi so that in future he can better manage his time?
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Devote some time for not important and urgent activities in your plan so that any time you can use it for handling crisis situations.
+✅ Answer: <p align="center">✔️ Devote some time for not important and urgent activities in your plan so that any time you can use it for handling crisis situations.<p>
 </details>
 
 **Question 5:** Values clarification is an example of
