@@ -15,6 +15,7 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 | Website Creation          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/b4h8bNmFntA)         | 1m 41sec   | 100% ✅ |
 | Creating Responsive Web Pages using Bootstrap 4          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/GKQIhKAnqGk)         | 2m 43sec   | 100% ✅ |
 | Agile Scrum in Practice          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)         | 1m 41sec   | 100% ✅ |
+| Time Management          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)         | 1m 40sec   | 100% ✅ |
 
 ## 💯 Why These Work
 

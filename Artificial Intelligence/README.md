@@ -6,9 +6,6 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 
 | Topic                             | Video Link                                                                 | Duration   | Score   |
 |----------------------------------|----------------------------------------------------------------------------|------------|---------|
-| Learning Power BI                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/OYw-v6kJTu8) | 2m 48sec   | 100% ✅ |
-| Power BI for Business Professionals | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/roHsHu6ToqQ) | 1m 59sec   | 100% ✅ |
-| Power BI Training | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/7OVllYC1U6w) | 2m 57sec   | 100% ✅ |
 | Agile Scrum in Practice          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)         | 1m 41sec   | 100% ✅ |
 | Time Management          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)         | 1m 40sec   | 100% ✅ |
 
