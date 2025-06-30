@@ -1,1 +1,1 @@
-<img src="./assets/unnamed.jpg" alt="Internship Image">
+<img src="./assets/internship.png" alt="Internship Image">
