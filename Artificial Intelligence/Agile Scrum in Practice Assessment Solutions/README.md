@@ -1,4 +1,4 @@
-# Creating Responsive Web Pages using Bootstrap 4 Quiz Questions
+# Agile Scrum in Practice Quiz Questions
 
 Test your Agile Scrum knowledge with these 20 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
