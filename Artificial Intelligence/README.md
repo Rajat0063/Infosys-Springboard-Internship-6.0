@@ -6,11 +6,11 @@ Boost your scores to 💯 with these comprehensive tutorial videos and downloada
 
 ## 🎥📄 Complete Learning Package – Watch & Download
 
-| 📌 Topic                  | 🔗 Video Link                                                                                                   | ⏱️ Duration | ✅ Score | 📥 PDF Notes                                                                 |
+| 📌 Topic                  | 🔗 Video Link                                                                                                   | ⏱️ Duration | ✅ Score | ⬇️ PDF Notes                                                                 |
 |--------------------------|------------------------------------------------------------------------------------------------------------------|-------------|---------|-------------------------------------------------------------------------------|
-| **Agile Scrum in Practice** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                    | 1m 41s      | 100% ✅  | [📄 Download](https://drive.google.com/file/d/1oDvTPCViJEURC7Hait7gC_09NWgcL4aH/view?usp=drive_link)       |
-| **Time Management**         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)| 1m 40s      | 100% ✅  | [📄 Download](https://drive.google.com/file/d/1xSBZ5UJE2kQET0Er0Uvq7KNhlvPdSrjK/view?usp=drive_link)   |
-| **Email Writing Skills**    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                    | 2m 40s      | 100% ✅  | [📄 Download](https://drive.google.com/your-link-to-email-writing-notes)     |
+| **Agile Scrum in Practice** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                    | 1m 41s      | 100% ✅  | [⬇️ Download Notes](https://drive.google.com/file/d/1oDvTPCViJEURC7Hait7gC_09NWgcL4aH/view?usp=drive_link)       |
+| **Time Management**         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)| 1m 40s      | 100% ✅  | [⬇️ Download Notes](https://drive.google.com/file/d/1xSBZ5UJE2kQET0Er0Uvq7KNhlvPdSrjK/view?usp=drive_link)   |
+| **Email Writing Skills**    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                    | 2m 40s      | 100% ✅  | [⬇️ Download Notes](https://drive.google.com/your-link-to-email-writing-notes)     |
 
 ---
 
