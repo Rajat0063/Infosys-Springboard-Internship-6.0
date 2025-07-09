@@ -2,7 +2,7 @@
 
 Test your Programming using Java knowledge with these 25 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
-## <h1 align="center">OOPS Concepts and java Architecture</h1>
+## <h1 align="center">OOPS Concepts and Java Architecture</h1>
 
 **Question 1:** If the access specifier is not specified explicitly in a Java class, which of these will be considered?
 
@@ -11,11 +11,11 @@ Test your Programming using Java knowledge with these 25 challenging questions. 
 
 </details>
 
-**Question 2:** JoConsider the given scenario. Global Corp Bank is a global banking organization that provides standard banking services to its customers spread across the globe. The bank offers loans for different purposes to its customers like education loans, housing loans etc.<br><br>
+**Question 2:** Consider the given scenario. Global Corp Bank is a global banking organization that provides standard banking services to its customers spread across the globe. The bank offers loans for different purposes to its customers like education loans, housing loans etc.<br><br>
 For the given scenario, the analyst creates the design for the loan classes as follows:
 <br><br>
-The different kinds of loan classes are created first
-The commonalities are then identified and then grouped to form the base class for all kinds of loans
+● The different kinds of loan classes are created first<br>
+● The commonalities are then identified and then grouped to form the base class for all kinds of loans<br><br>
 Which OOP feature has been used here?
 
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -55,7 +55,9 @@ Which OOP feature has been used here?
 
 </details>
 
-**Question 6:** sider the given scenario. Global Corp Bank is a global banking organization that provides standard banking services to its customers spread across the globe. The aim of the proposed banking system is to create a paperless bank. The bank leverages IT for automating several of its business processes.<br><br>
+## <h1 align="center">Java Language Basic Constructs and Keywords</h1>
+
+**Question 1:** Consider the given scenario. Global Corp Bank is a global banking organization that provides standard banking services to its customers spread across the globe. The aim of the proposed banking system is to create a paperless bank. The bank leverages IT for automating several of its business processes.<br><br>
 
 For the given scenario, there are 5 options available under the account services of the bank.<br><br>
 
@@ -76,14 +78,14 @@ Assume that the user has provided input for choice as 10. The menu gets redispla
 
 </details>
 
-**Question 7:** Sam wants to store a value 2 power 30 i.e., 2,147,483,647. Which of the primitive data types in Java can be used to store this value?
+**Question 2:** Sam wants to store a value 2 power 30 i.e., 2,147,483,647. Which of the primitive data types in Java can be used to store this value?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: int
 
 </details>
 
-**Question 8:** Consider the given code snippet:
+**Question 3:** Consider the given code snippet:
 
 ```typescript
 1. class Item{
@@ -116,7 +118,7 @@ The given code snippet results in an error during compilation. Identify the line
 </details>
 
 
-**Question 9:** Help Sam to identify the reserved keyword in Java that he cannot use as names or variables in his code. Choose the CORRECT option.
+**Question 4:** Help Sam to identify the reserved keyword in Java that he cannot use as names or variables in his code. Choose the CORRECT option.
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: static
@@ -124,7 +126,7 @@ The given code snippet results in an error during compilation. Identify the line
 </details>
 
 
-**Question 10:** What is the output of the given code snippet?
+**Question 5:** What is the output of the given code snippet?
 
 ```typescript
 public class Demo{
@@ -157,8 +159,9 @@ The value of sum is 70
 
 </details>
 
+## <h1 align="center">Static/Final/Abstract</h1>
 
-**Question 11:** What is the output of the given code snippet?
+**Question 1:** What is the output of the given code snippet?
 
 ```typescript
 interface Flyer{
@@ -195,7 +198,7 @@ class Demo{
 </details>
 
 
-**Question 12:** Which of the given statement is FALSE?
+**Question 2:** Which of the given statement is FALSE?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: During the object creation, the constructor of a class always executes before the execution of a static block (if any) of the same class
@@ -203,7 +206,7 @@ class Demo{
 </details>
 
 
-**Question 13:** Which of the given statement is FALSE with respect to final keyword?
+**Question 3:** Which of the given statement is FALSE with respect to final keyword?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: A final method must be overridden
@@ -211,7 +214,7 @@ class Demo{
 </details>
 
 
-**Question 14:** Consider the given statements with respect to final keyword.<br><br>
+**Question 4:** Consider the given statements with respect to final keyword.<br><br>
 
 Statement 1: A final method must be overridden<br>
 
@@ -227,7 +230,7 @@ Statement 4: We can change the value of a final variable
 </details>
 
 
-**Question 15:** What is the output of the given code snippet?
+**Question 5:** What is the output of the given code snippet?
 
 ```typescript
 class Student{
@@ -264,8 +267,9 @@ class Demo{
 
 </details>
 
+## <h1 align="center">Arrays/Access modifiers</h1>
 
-**Question 16:** What is the output of the given code snippet?
+**Question 1:** What is the output of the given code snippet?
 
 ```typescript
 class Patient{
@@ -306,7 +310,7 @@ class Demo{
 </details>
 
 
-**Question 17:** What is the output of the given code snippet?
+**Question 2:** What is the output of the given code snippet?
 
 ```typescript
 class Demo{
@@ -323,7 +327,7 @@ class Demo{
 </details>
 
 
-**Question 18:** What is the output of the given code snippet?
+**Question 3:** What is the output of the given code snippet?
 
 ```typescript
 public class Demo{
@@ -363,7 +367,7 @@ public class Demo{
 </details>
 
 
-**Question 19:** What is the output of the given code snippet?
+**Question 4:** What is the output of the given code snippet?
 
 ```typescript
 class Demo{
@@ -391,7 +395,7 @@ class Demo{
 </details>
 
 
-**Question 20:** What is the output of the given code snippet? 
+**Question 5:** What is the output of the given code snippet? 
 
 ```typescript
 class Demo{
@@ -417,8 +421,9 @@ class Demo{
 
 </details>
 
+## <h1 align="center">Local Date and Time</h1>
 
-**Question 21:** Choose the option that converts Date class object to date in string format in Java?
+**Question 1:** Choose the option that converts Date class object to date in string format in Java?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: SimpleDateFormat obj = new SimpleDateFormat("yyyy-mm-dd");<br>
@@ -427,7 +432,7 @@ obj.format(new Date());
 </details>
 
 
-**Question 22:** Choose the option that creates a LocalDate object representing the date March 16, 2023?
+**Question 2:** Choose the option that creates a LocalDate object representing the date March 16, 2023?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: LocalDate.of(2023, 3, 16)
@@ -435,7 +440,7 @@ obj.format(new Date());
 </details>
 
 
-**Question 23:** Choose the option that converts the date in string format to a Date class object in Java?
+**Question 3:** Choose the option that converts the date in string format to a Date class object in Java?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: SimpleDateFormat obj = new SimpleDateFormat("yyyy-MM-dd");<br>
@@ -444,7 +449,7 @@ obj.parse(new Date());
 </details>
 
 
-**Question 24:** What is the output of the given code snippet?
+**Question 4:** What is the output of the given code snippet?
 
 ```typescript
 class Demo{
@@ -463,14 +468,16 @@ class Demo{
 </details>
 
 
-**Question 25:** Choose the option that represents the MOST appropriate definition of LocalTime class 
+**Question 5:** Choose the option that represents the MOST appropriate definition of LocalTime class 
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: time without date
 
 </details>
 
-**Question 26:** What is the output of the given code snippet?
+## <h1 align="center">Exceptions/Assertions</h1>
+
+**Question 1:** What is the output of the given code snippet?
 
 ```typescript
 public class Demo{
@@ -505,7 +512,7 @@ Outer Finally block
 
 </details>
 
-**Question 27:** What is the output of the given code snippet?
+**Question 2:** What is the output of the given code snippet?
 
 ```typescript
 public class Demo {
@@ -531,7 +538,7 @@ public class Demo {
 
 </details>
 
-**Question 28:** What is the output of the given code snippet?
+**Question 3:** What is the output of the given code snippet?
 
 ```typescript
 public class Demo{
@@ -569,7 +576,7 @@ Outside
 
 </details>
 
-**Question 29:** What is the output of the given code snippet?
+**Question 4:** What is the output of the given code snippet?
 
 ```typescript
 public class Demo{
@@ -609,7 +616,7 @@ Outside
 
 </details>
 
-**Question 30:** What is the output of the given code snippet?
+**Question 5:** What is the output of the given code snippet?
 
 ```typescript
 public class Demo{
@@ -638,7 +645,9 @@ Runtime Exception: ArrayIndexOutOfBoundsException
 
 </details>
 
-**Question 31:** What is the output of the given code snippet?
+## <h1 align="center">Inheritance</h1>
+
+**Question 1:** What is the output of the given code snippet?
 
 ```typescript
 class Camera{
@@ -676,7 +685,7 @@ class MirrorlessCamera extends Camera{
 
 </details>
 
-**Question 32:** What is the output of the given code snippet?
+**Question 2:** What is the output of the given code snippet?
 
 ```typescript
 class Certificate{
@@ -725,7 +734,7 @@ class Demo{
 
 </details>
 
-**Question 33:** What is the output of the given code snippet?
+**Question 3:** What is the output of the given code snippet?
 
 ```typescript
 class Shape{
@@ -754,7 +763,9 @@ Disp in Rectangle class
 
 </details>
 
-**Question 34:** What is the output of the given code snippet?
+## <h1 align="center">Strings/Wrapper classes/Generics</h1>
+
+**Question 1:** What is the output of the given code snippet?
 
 ```typescript
 class Demo{
@@ -787,7 +798,7 @@ class Demo{
 
 </details>
 
-**Question 35:** What is the output of the given code snippet?
+**Question 2:** What is the output of the given code snippet?
 
 ```typescript
 class Demo{
@@ -817,7 +828,7 @@ Infosys Campus
 
 </details>
 
-**Question 36:** What is the output of the given code snippet?
+**Question 3:** What is the output of the given code snippet?
 
 ```typescript
 class Demo{
@@ -836,7 +847,7 @@ class Demo{
 
 </details>
 
-**Question 37:** What is the output of the given code snippet?
+**Question 4:** What is the output of the given code snippet?
 
 ```typescript
 class Demo{
@@ -865,7 +876,9 @@ Sachin Tendulkar
 
 </details>
 
-**Question 38:** What is the output of the following code snippet?
+## <h1 align="center">Collections</h1>
+
+**Question 1:** What is the output of the following code snippet?
 
 ```typescript
 public class Demo{
@@ -885,7 +898,7 @@ public class Demo{
 
 </details>
 
-**Question 39:** What is the output of the given code snippet?
+**Question 2:** What is the output of the given code snippet?
 
 ```typescript
 List<Integer> list = new LinkedList<>();
@@ -903,7 +916,7 @@ Assumption: All necessary import statements are provided
 
 </details>
 
-**Question 40:** Consider the code snippet:
+**Question 3:** Consider the code snippet:
 
 ```typescript
 List<Integer> list = new ArrayList<>();
