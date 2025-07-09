@@ -25,7 +25,6 @@ Which OOP feature has been used here?
 
 **Question 3:** Consider the given statements. Which of these options is CORRECT?
 <br><br>
-
 (i) Byte codes are stored in files with extension .class
 <br>
 (ii) JVM is platform independent 
