@@ -1,4 +1,4 @@
-# Programming using Java Quiz Questions
+# Java Foundation Certification Quiz Questions
 
 Test your Programming using Java knowledge with these 25 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
