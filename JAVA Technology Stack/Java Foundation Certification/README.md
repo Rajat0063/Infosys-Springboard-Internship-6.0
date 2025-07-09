@@ -1,6 +1,6 @@
 # Java Foundation Certification Quiz Questions
 
-Test your Programming using Java knowledge with these 25 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+Test your Java Foundation Certification knowledge with these 40 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
 ## <h1 align="center">OOPS Concepts and Java Architecture</h1>
 
