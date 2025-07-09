@@ -2,6 +2,8 @@
 
 Test your Programming using Java knowledge with these 25 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
+## <h1 align="center">OOPS Concepts and java Architecture</h1>
+
 **Question 1:** If the access specifier is not specified explicitly in a Java class, which of these will be considered?
 
 <details> <summary><b>🔍 View Answer</b></summary>
