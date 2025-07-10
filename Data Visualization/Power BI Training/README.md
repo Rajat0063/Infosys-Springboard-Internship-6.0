@@ -75,7 +75,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 
 </details>
 
-**Question 8:** one can connect to Dataverse through its _____ ?
+**Question 8:** one can connect to Dataverse through its _____?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -85,7 +85,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 
 </details>
 
-**Question 9:** Reporting format can be in the form of ?
+**Question 9:** Reporting format can be in the form of?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer:  <br><br>
@@ -93,7 +93,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 
 </details>
 
-**Question 10:** Identify the option to highlight the particular data in the page among multiple data ?
+**Question 10:** Identify the option to highlight the particular data in the page among multiple data?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -114,7 +114,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 </p>
 </details>
 
-**Question 12:** Identify the incoorect options available under page options ?
+**Question 12:** Identify the incorrect options available under page options?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -125,7 +125,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 
 </details>
 
-**Question 13:** with Power BI desktop we can ?
+**Question 13:** with Power BI desktop we can?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -151,12 +151,12 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
 <p align="center">
-✔️ Artificial inteligence visuals
+✔️ Artificial intelligence visuals
 </p>
 
 </details>
 
-**Question 16:** Identify the Al visuals ?
+**Question 16:** Identify the Al visuals?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer:  <br><br>
@@ -192,7 +192,7 @@ Test your Power BI Training knowledge with these 20 challenging questions. Each 
 ✅ Answer: <br><br>
 
 <p align="center">
-True 
+✔️ True 
 </p>
 
 </details>
@@ -242,7 +242,7 @@ True
 
 </details>
 
-**Question 25:** Identify the function of what If parameters ?
+**Question 25:** Identify the function of what If parameters?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -251,7 +251,7 @@ True
 
 </details>
 
-**Question 26:** identify the menu under which language option is present for changing the language asked for questions in Q&A ?
+**Question 26:** identify the menu under which language option is present for changing the language asked for questions in Q&A?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -269,7 +269,7 @@ True
 
 </details>
 
-**Question 28:** will choose from a list of common calculations & add the results to the selected table??
+**Question 28:** will choose from a list of common calculations & add the results to the selected table?
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
