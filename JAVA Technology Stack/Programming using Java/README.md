@@ -471,7 +471,7 @@ public class Tester {
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <br>
+✅ Answer: <br><br>
 
 <p align="center">
 The code will result in a compilation error as the method add cannot be accessed outside the class.
