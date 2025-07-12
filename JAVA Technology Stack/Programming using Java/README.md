@@ -2,469 +2,882 @@
 
 Test your Programming using Java knowledge with these 25 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
-**Question 1:** What will be the output of the code given below?
+**Question 1:** WWhat will be the output of the code given below?
 
 ```typescript
+public class Tester {
 
-```
+    public static void main(String args[]) {
 
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ngAfterViewInit
+        String input1 = "warner";
 
-ngAfterViewChecked
+        String input2 = new String("WARNER");
 
-</details>
+        input2.toLowerCase();
 
-**Question 2:** John has created a sign-in form and a model class for that. He wants to bind those form fields with the properties of the model class so that data can be transferred in both directions. What type of data binding he should use?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Two Way
-
-</details>
-
-**Question 3:** In reactive forms, we don't use the ngModel directive to bind form elements with model class properties. State True or False.
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: True
-
-</details>
-
-**Question 4:** Which of the below syntax will clone and add DOM elements when the condition is true and removes from DOM when the condition is false?
-
-
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: *ngIf="conditional"
-
-</details>
-
-**Question 5:** Which of the following will successfully add required and email validators to the email field?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: email: ['', [Validators.required, Validators.email]],
-
-</details>
-
-**Question 6:** Which among the following is true about modules in Angular?
-
-1. Module is a block of code with specific functionality that is used to organize the application
-
-2. Each component created in an Angular application should be made part of a module
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Both (i) and (ii) are true
-
-</details>
-
-**Question 7:** A Component will consists of the following
-
-1. Templates
-
-2. Class
-
-3. Metadata
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: All of the above
-
-</details>
-
-**Question 8:** Which of the following is the correct way to bind a click event to the button?
-
-```typescript
-1. <button (click) = "onSubmit(userName.value,password.value)">Login</button>
- 
-
-2. <button onClick = "onSubmit(userName.value,password.value)">Login</button>
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Only (i) is correct
-
-</details>
-
-
-**Question 9:** Consider the below Angular service code snippet. Which line in the below code will be executed when HttpClient returns an error response?
-
-```typescript
-(1) @Injectable()
-(2) export class BookService {
-(3)    constructor(private http: HttpClient) { }
-(4)    private booksUrl = './assets/books.json';
-(5)    getBooks(): Observable<Book[]>{
-(6)        return this.http.get<Book[]>(this.booksUrl).pipe(
-(7)            tap(data => console.log("All: " + JSON.stringify(data))),
-(8)            catchError(this.handleError))}
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Line 8
-
-</details>
-
-
-**Question 10:** What type of one-way data binding is used for the below template?
-
-```typescript
-<table border=1>
-    <tr>
-       <td [attr.colspan]="1+1"> First </td>
-       <td>Second</td>
-    </tr>
-    <tr>
-       <td>Third</td>
-       <td>Fourth</td>
-       <td>Fifth</td>
-    </tr>
-</table>
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Attribute Binding
-
-</details>
-
-
-**Question 11:** In the below-given code snippet, we are creating service ProtectGuard having a dependency on AuthLoginService:  
-
-ProtectGuard.service.ts:
-
-```typescript
-export class ProtectGuard implements CanActivate {
-       constructor(private Authlogin: AuthLoginService) { }
-       canActivate(route: ActivatedRouteSnapshot, state: RouterStateSnapshot): Promise<boolean> {
-           Authlogin.isSignedIn().then(() => {
-               if (signedIn) {
-                   returns true;
-               }
-           })
-       }
-   }
-```
-
-AuthLogin.service.ts:   
-
-It contains a method called isSignedIn which returns a variable signedIn of boolean value false wrapped inside a promise object.
-
-
-Select the correct option to protect the path in users component in Angular.
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: {path : 'users' , canActivate:[ProtectGuard], component:UsersComponent}
-
-</details>
-
-
-**Question 12:** Below is the code for a custom pipe to sort an array of numbers. Which line in the given code will throw an error?
-
-```typescript
-1	import { Pipe, PipeTransform } from '@angular/core';
-2
-3	@Pipe({
-4	  name: 'sort'
-5	})
-6	export class SortPipe {
-7
-8	  transform(value: any[], args:string): any {
-9
-10		if(args==="Ascending"){
-11	      return value.sort(function(a, b){return a-b});
-12	    }
-13		else if(args==="Descending"){
-14		  return value.sort(function(a, b){return b-a});
-15		}
-16		else{
-17		  return value;
-18		}
-19	  }
-20	}
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Line Number 6
-
-</details>
-
-
-**Question 13:** In reactive forms, which of the following class is used to build a reactive form object inside a component class?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: FormBuilder
-
-</details>
-
-
-**Question 14:** Vikas is trying to understand the code of a Single Page Application created using Angular. He sees the below code. When the application runs, he is able to go to its respective view on click of login or register. He is not able to understand which line of code is responsible for rendering the respective views on the page. Can you help him?
-
-```typescript
-(1) <h1>{{title}}</h1>
-(2)     <nav>
-(3)       <a [routerLink]="['/login']">Login</a>
-(4)       <a [routerLink]="['/register']">Register</a>
-(5)     </nav>
-(6)	<router-outlet></router-outlet>
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Line 6
-
-</details>
-
-
-**Question 15:** The only way to inject a service class inside a component is through a constructor. State True or False.
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: True
-
-</details>
-
-
-**Question 16:** In the below code snippet, we configured a route path and ErrorComponent as follows
-
-```typescript
-app.module.ts:
-
-{ path: "error", component: ErrorComponent, data: { message: "page not found" } }
- 
-
-ErrorComponent.ts:
-
-export class ErrorComponent {
-       constructor(private route: ActivatedRoute) { }
-       errormessage: string;
-       //line 4
-   }
-```
-
-Which of the following can be written in line 4 for retrieving static data from a route?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Both a and b
-
-</details>
-
-
-**Question 17:** While passing the data from child to parent/container component, the property we create in the child component must be of which type?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: EventEmitter
-
-</details>
-
-
-**Question 18:** Which of the following syntax is not an example of one-way data binding?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: [(ngModel)]="value"
-
-</details>
-
-
-**Question 19:** In the below-given code snippet, which line of code will throw an error?
-
-```typescript
-(1) import { Component } from '@angular/core';
-(2) @Component({
-(3)    selector: 'app-root',
-(4)    template: `<ul>
-(5)                 <li ngFor="let u of users">{{u.name}}, {{u.address}}</li>
-(6)               </ul>`})
-(8) export class AppComponent {
-(9)   users=[{"name":"Ward Bell Dallas","address":"Texas","status":"active"},
-(10)         {"name":"Mark Zuckerberg","address":"Palo Alto","status":"active"},
-(11)         {"name":"James Cook Kent street","address":"Sydney","status":"active"}];}
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Line Number 5
-
-</details>
-
-
-**Question 20:** Consider the following Angular routing code. Which line in the given code has an error? 
-
-```typescript
-(1) import { Routes, RouterModule } from '@angular/router';
-(2) import { BooksComponent }    from './books.component';
-(3) import { DashboardComponent } from './dashboard.component';
-(4) import { BookDetailComponent } from './book-detail.component';
-
-(5) const routes: Routes = [
-(6)     { path: 'dashboard', component: DashboardComponent },
-(7)     { path:'', pathMatch:'full'},
-(8)     { path: 'books', component: BooksComponent },
-(9)     { path:'detail/:id',component: BookDetailComponent}];  
-
-(10) export const routing = RouterModule.forRoot(routes);
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Line 7
-
-</details>
-
-
-**Question 21:** Which of the following statement(s) is/are true regarding Reactive forms?
-
-1. Reactive forms are used for large size forms
-
-2. In Reactive forms, form control objects are created in the component class and will be bounded to the form elements in the template
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Both (i) and (ii) are true
-
-</details>
-
-
-**Question 22:** Which of the following is not a built-in-pipe in Angular?
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: FilterPipe
-
-</details>
-
-
-**Question 23:** Which of the following can be used to pass data from one component to another component?
-
-(a) @Input and @Output decorators
-
-(b) route parameters in routing
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Both (a) and (b) can be used
-
-</details>
-
-
-**Question 24:** In the below code snippet, we configured route paths in UserModule and AppModule.
-
-```typescript
-user.module.ts:
-
-const userRoutes: Routes = [{
-       path: ' ',
-       component: UserComponent, 
-       children: [
-           { path: 'add', component: AddUserComponent },
-           { path: 'update', component: UpdateUserComponent }
-       ]
-   }];
- 
-
-app.module.ts:
-
-{
-       path: 'user',
-       loadChildren: () => import('./user/user.module').then(mod => mod.UserModule)
-   }
-   @ngModule({
-       imports: []
-   })
-```
-
-What will happen when the user will navigate to the 'user' route?
-
-Note: All necessary imports are done.
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: UserModule will be loaded and it will add its routes to AppModule
-
-</details>
-
-
-**Question 25:** Amit has created two component classes called "AppComponent" & "LoginComponent" respectively. Which of the below code is correct inorder to see the LoginComponent view in the browser? 
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: @NgModule({    declarations: [AppComponent,LoginComponent],    bootstrap: [LoginComponent]    })
-
-</details>
-
-**Question 26:** How many files will get created when the following command is executed to generate a component using Angular CLI?
-
-ng generate component MyComponent
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: 4
-
-</details>
-
-**Question 27:** Which of the following statement(s) is/are correct regarding pipes?
-
-1. Pipes is a way of handling functionality inside templates 
-
-2. Pipes are used for data transformation
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Both (i) and (ii) are true
-
-</details>
-
-**Question 28:** Consider the below code snippet and assume that all the required imports are done. What will be the output when the page loads in the browser?
-
-```typescript
-app.component.html:
-
-<div>Welcome to {{courseTitle}}</div>
-       
-
-app.component.ts:  
-
- 
-import { Component } from '@angular/core';
-
-@Component ({
-           selector: 'my-app',
-           templateUrl: 'app/app.component.html'  
-})
-export class AppComponent {
-           courseTitle: string = 'Angular';
-}
-```
-
-<details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: Welcome to Angular
-
-</details>
-
-**Question 29:** Which method invokes whenever the data property value changes?
-
-```typescript
-export class AppComponent implements OnInit,  DoCheck,
-    AfterContentInit, AfterContentChecked,
-    AfterViewInit, AfterViewChecked,
-    OnDestroy
- {
-    
-    ngOnInit()     
-        console.log('Init');
-    }
-
-   ngAfterContentInit() {
-        console.log('After content init');
-    }
-
-    ngDoCheck() {
-        console.log('Change detected');
-    }
-    
-    ngAfterContentChecked() {
-        console.log('After content checked');
-    }
-
-     ngOnDestroy() {
-        console.log('Destroy');
+        if (input1 == input2) {
+            System.out.println(" Welcome + input1);
+        } else if (input1.equals(input2)) {
+            System.out.println(" Welcome + input2);
+        } else {
+            System.out.println("Welcome");
+        }
     }
 }
 ```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: ngDoCheck()
+✅ Answer: <br>
+
+<p align="center">
+Welcome
+</p>
 
 </details>
 
-**Question 30:** Which of the following is correct to define the template of a component?
+**Question 2:** What will be the output of the code given below?
+
+```typescript
+class Employee {
+    public String name;
+    public char gender;
+    public double salary;
+
+    public Employee (String name, char gender) {
+        this.name = name;
+        this.gender = gender;
+    }
+
+    public Employee (String name) {
+        this.name = name;
+    }
+}
+
+public class Tester {
+    public static void main(String[] args) {
+        Employee emp1 = new Employee("Robert", 'M');
+        Employee emp2 = new Employee("Alex");
+
+        System.out.println(emp2.name + ', ' + emp2.gender + ', ' + emp1.name);
+    }
+}
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: @Component({    selector: 'app-coursedetail',    templateUrl: './coursedetail.component.html'    })
+✅ Answer: <br>
+
+<p align="center">
+Alex,Robert
+</p>
+
+</details>
+
+**Question 3:** What will be the output of the code given below?
+
+```typescript
+public class Tester {
+
+    public static void main(String[] args) {
+
+        int sum = 0;
+
+        for (int i = 2; i < 8; i += 2) {
+            for (int j = 8; j > i; j -= 2) {
+                if (i >= j / 2) { 
+                    continue;
+                } else {
+                    sum += i + j;
+                }
+            }
+        }
+        System.out.println("Sum = " + sum);
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+Sum = 18
+</p>
+
+</details>
+
+**Question 4:** What will be the output of the code given below?
+
+```typescript
+public class Tester {
+
+    public static void main(String[] args) {
+
+        int num1 = 2, num2 = 20;
+
+        do {
+            num2 = num2 / num1;
+
+            if (num1 > num2) {
+                break;
+            }
+
+            num2--;
+
+        } while (++num1 < 5);
+
+        System.out.println("num1 = " + num1 + " and num2 = " + num2);
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+num1 = 4 and num2 = 0
+</p>
+
+</details>
+
+**Question 5:** What will be the output of the code given below?
+
+```typescript
+class Validator {
+
+    public int[] studentId = {101, 102, 103};
+
+    public void validateStudent(int id) {
+        try {
+            for (int index = 0; index <= studentId.length; index++) {  
+                if (id == studentId[index]) {
+                    System.out.println("P");
+                }
+            }
+        } finally {
+            System.out.println("Q");
+        }
+    }
+}
+
+public class Tester {
+
+    public static void main(String[] args) {
+        Validator validator = new Validator();
+
+        try {
+            validator.validateStudent(101);
+            System.out.print("R");
+        } catch (ArrayIndexOutOfBoundsException e) {
+            System.out.println("S");
+        } finally {
+            System.out.println("T");
+        }
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+P Q S T
+</p>
+
+</details>
+
+**Question 6:** Identify the line of code to be placed in Line 27 of the code snippet given below to display the zipCode of the customer.
+
+```typescript
+class Address {
+
+    private int zipCode;
+
+    public Address(int zipCode) {
+        this.zipCode = zipCode;
+    }
+
+    public int getZipCode() {
+        return zipCode;
+    }
+}
+
+public class Customer {
+
+    public Address address;
+    public String name;
+
+    public Customer(String name, int zipCode) {
+        this.name = name;
+        address = new Address(zipCode);
+    }
+}
+
+public class Tester {
+
+    public static void main(String args[]) {
+
+        Customer customer = new Customer("Sam", 100001);
+        // Line 27
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+System.out.println(customer.address.getZipCode());
+</p>
+
+</details>
+
+**Question 7:** What will be the output of the code given below?
+
+```typescript
+public class Tester {
+
+    public static void main(String[] args) {
+
+        int num1 = 28;
+        int num2 = 36;
+        int num3 = 0;
+
+        if (~(num2 / num1) < 0 && (num1 + num2) % 4 == 0) {
+            num1 = num1 + --num3;
+        }
+
+        if ((num2 / num1) > 1 || num3 == 0) {
+            num1 = num1 + num3++;
+            System.out.println(num1 + --num3);
+        } else {
+            System.out.println(num1 + --num3);
+        }
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+25
+</p>
+
+</details>
+
+**Question 8:** What will be the output of the code given below?
+
+```typescript
+class A {
+    public int count;
+
+    public A() {
+        count = 10;
+    }
+
+    public int method1() {
+        int count = 20;       
+        return this.count;     
+    }
+}
+
+class B extends A {
+    public int method1() {
+        return this.count = 15; 
+    }
+
+    public int method2() {
+        return 20;
+    }
+}
+
+class C extends B {
+    public int method2() {
+        return 40;   
+    }
+}
+
+public class Tester {
+    public static void main(String args[]) {
+        A obj1 = new A();
+        B obj2 = new B();    
+        C obj3 = new C();
+
+        System.out.println(obj1.method1() + obj3.method1() + obj3.method2());
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+65
+</p>
+
+</details>
+
+
+**Question 9:** What will be the output of the code given below?
+
+```typescript
+class A {
+    public int var1;
+    public int var2;
+
+    public A(int value) {
+        this.var1 = value; 
+    }
+
+    public int method1() {
+        return this.var2;
+    }
+}
+
+class B extends A {
+    public B() {
+        super(10);
+    }
+
+    public int method1(int value1) {
+        return this.var1;
+    }
+}
+
+class C extends B {
+    public C(int value1, int value2) {
+        super();
+        this.var2 = value2;
+    }
+
+    public void method1(int value1, int value2) {
+        this.var2 = super.method1(value1);
+    }
+}
+
+public class Tester {
+    public static void main(String args[]) {
+        C obj = new C(5, 20);
+        System.out.println(obj.method1(5) + obj.method1());
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+30
+</p>
+
+</details>
+
+
+**Question 10:** What will be the output of the code given below?
+
+```typescript
+public class Tester {
+
+    public static void main(String[] args) {
+        System.out.println(demo(5, 1));
+    }
+
+    public static int demo(int x, int y) {
+        if (x == 0)
+            return 1;
+        else if (y > x)
+            return 0;
+        else
+            return (y + demo(x - 1, y + 1));
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+6
+</p>
+
+</details>
+
+
+**Question 11:** Which of the following will match the below regular expression?
+
+```typescript
+String regex = "[A-Z][a-z0-9@$%&]{0,}([][A-Za-z]{1,})*";
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+"Alex2&"<br>
+"John snow"
+</p>
+
+</details>
+
+
+**Question 12:** What will be the output of the code given below?
+
+```typescript
+public class Tester {
+
+    public static void main(String[] args) {
+
+        short discountPercentage = 7;
+        int noOfItems = 10;
+        float pricePerItem = 255.6f;
+        float taxAmount = 135.50f;
+
+        int discountedAmount = (noOfItems * (int)pricePerItem )* (1 - discountPercentage / 100.0);
+
+        double totalAmount = discountedAmount + taxAmount;
+
+        System.out.println("Total amount to be paid is " + totalAmount);
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+Total amount to be paid is 2685.5
+</p>
+
+</details>
+
+
+**Question 13:** What will be the output of the code given below?
+
+```typescript
+public class Calculator {
+
+    private int add(int num1, int num2) {
+        return num1 + num2;
+    }
+
+}
+
+public class Tester {
+
+    public static void main(String args[]) {
+        Calculator calculator = new Calculator(); 
+        System.out.println(calculator.add(1, 2)); 
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+The code will result in a compilation error as the method add cannot be accessed outside the class.
+</p>
+
+</details>
+
+
+**Question 14:** Which of the following are invalid variable declarations?
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+int 1value = 2147483648;<br>
+char gender = "M";<br>
+boolean flag = False<br>
+String name = 'Alex'
+</p>
+
+</details>
+
+
+**Question 15:** What will be the output of the code given below?
+
+```typescript
+abstract class Employee {
+
+    private String name;
+
+    public Employee(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
+    }
+}
+
+class SystemEngineer extends Employee {
+
+    public SystemEngineer(String name) {
+        super(name);
+    }
+}
+
+public class Tester {
+
+    public static void main(String[] args) {
+        Employee systemEngineer = new SystemEngineer("Maria");
+        System.out.println(systemEngineer.getName());
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+Maria
+</p>
+
+</details>
+
+
+**Question 16:** What will be the output of the code given below?
+
+```typescript
+class Employee {
+
+    private int employeeId;
+    private static int counter = 1000;
+
+    public Employee() {
+        employeeId = ++counter;
+    }
+
+    public int getEmployeeId() {
+        return employeeId;
+    }
+
+    public static int getCounter() {
+        return counter;
+    }
+}
+
+public class Tester {
+
+    public static void main(String[] args) {
+
+        Employee employee1 = new Employee();
+        Employee employee2 = new Employee();
+        Employee employee3 = new Employee();
+
+        displayEmployeeDetails(employee1);
+        displayEmployeeDetails(employee2);
+        displayEmployeeDetails(employee3);
+    }
+
+    public static void displayEmployeeDetails(Employee employee) {
+        System.out.println(employee.getEmployeeId() + " " + Employee.getCounter());
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+1001 1003 1002 1003 1003 1003
+</p>
+
+</details>
+
+
+**Question 17:** Consider the code given below.
+
+```typescript
+class Employee {
+
+    public int employeeld;
+    private double basicSalary;
+    private double totalSalary;
+
+    public Employee(double basicSalary) {
+        this.basicSalary = basicSalary;
+    }
+
+    public double getBasicSalary() {
+        return basicSalary;
+    }
+
+    public double getTotalSalary() {
+        return totalSalary;
+    }
+
+    public int getEmployeeId() {
+        return employeeld;
+    }
+
+    public double calculateTotalSalary(int bonusPercent) {
+        // Line 22
+        return totalSalary;
+    }
+}
+
+public class Tester {
+
+    public static void main(String[] args) {
+
+        Employee employee = new Employee(2150);
+        employee.employeeld = 101;
+        employee.calculateTotalSalary(8);
+        // Line 32
+    }
+}
+```
+
+You need to help the developer to display the following output by choosing the appropriate code to be implemented in Line 21 and Line 32.<br><br>
+
+Employee Id: 101, Total salary: 2322.0
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+Line 21 - this.totalSalary = this.basicSalary * (1 + (double) bonusPercent / 100);<br>
+Line 32 - System.out.println("Employee Id:" + employee.getEmployeeId() + ", Total salary: " + employee.getTotalSalary());
+</p>
+
+</details>
+
+
+**Question 18:** Which of the following statements is/are false?
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+A class can extend only one class or implement only one interface.<br>
+A class can implement an interface using extends keyword.
+</p>
+
+</details>
+
+
+**Question 19:** How many instance variables, reference variables and objects are there in the code given below?
+
+```typescript
+class Student {
+    public int studentId;
+    public String name;
+}
+
+public class Tester {
+    public static void main(String[] args) {
+
+        Student s1 = new Student();     
+        Student s2 = new Student();     
+        Student s3 = s1;                
+
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+instance variables : 2, reference variables : 3, objects : 2
+</p>
+
+</details>
+
+
+**Question 20:** What will be the output of the code given below? 
+
+```typescript
+class Calculator {
+
+    public int num1 = 10;
+    public float num2 = 20;   
+    public double sum;
+    public double product;
+
+    public double add(int num1, int num2) {
+        double sum = this.num1 + this.num2;  
+        return sum;
+    }
+
+    public double multiply(int num1, int num2) {
+        double sum = this.add(num1, num2);       
+        double product = this.sum * this.num1;  
+        return (int) product;
+    }
+}
+
+public class Tester {
+    public static void main(String[] args) {
+        Calculator c = new Calculator();          
+        System.out.println(c.multiply(10, 5));     
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+0.0
+</p>
+
+</details>
+
+
+**Question 21:** Which of the following are valid identifiers?
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+break$<br>
+_9Number<br>
+middle_Name<br>
+Class
+</p>
+
+</details>
+
+
+**Question 22:** What will be the output of the code given below?
+
+```typescript
+public class Tester {
+    public static void main(String[] args) {
+        int num1 = -20;
+        int num2 = -30;
+        int num3 = 10;
+        int num4 = -40;
+        if (num1 + num2 >= num4) {           
+            if (num4 < num3) {             
+                if (num4 % num3 != 10) {    
+                    System.out.println(1);
+                } else {
+                    System.out.println(2);  
+                }
+            }
+        } else {
+            if (num2 / num1 > 0) {        
+                if (num1 < num2 || num4 % num3 == 0) {
+                    System.out.println(3);
+                } else {
+                    System.out.println(4);
+                }
+            }
+        }
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+3
+</p>
+
+</details>
+
+
+**Question 23:** Which of the given assertion methods will return true for the code given below?
+
+```typescript
+Student student1 = new Student();
+Student student2 = new Student();
+Student student3 = student1;
+```
+The Student class is as follows.
+
+```typescript
+public class Student {
+    private String name;
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+assertEquals(student1,student2);<br>
+assertEquals(student1,student3);<br>
+assertSame(student1,student3);
+</p>
+
+</details>
+
+
+**Question 24:** What will be the output of the code given below?
+
+```typescript
+class Parent {
+    public final void displayMessage() {
+        System.out.println("displayMessage() method of Parent invoked");
+    }
+}
+
+class Child extends Parent {
+    public void displayMessage() {  
+        System.out.println("displayMessage() method of Child invoked");
+    }
+}
+
+public class Tester {
+    public static void main(String[] args) {
+        Parent parent = new Child();
+        parent.displayMessage();
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+Compilation error as final method cannot be overridden
+</p>
+
+</details>
+
+
+**Question 25:** What will be the output of the code given below?
+
+```typescript
+public class Tester {
+
+    public static void main(String s[]) {
+
+        int[] employeesSalary = { 1350, 2342, 6754, 1200, 1363 };
+
+        int count = 0;
+
+        for (int salary : employeesSalary) {
+            switch (salary % 2) {
+                default:
+                    employeesSalary[count] = salary + 1;
+                case 0:
+                    employeesSalary[count] = salary + 1;
+                    count++;
+                case 1:
+                    employeesSalary[count] = salary + 1;
+                    break;
+            }
+        }
+
+        for (int i = 0; i < employeesSalary.length; i++) {
+            System.out.print(employeesSalary[i] + " ");
+        }
+    }
+}
+```
+
+<details> <summary><b>🔍 View Answer</b></summary>
+✅ Answer: <br>
+
+<p align="center">
+1351 6755 1201 1364 1363
+</p>
 
 </details>
