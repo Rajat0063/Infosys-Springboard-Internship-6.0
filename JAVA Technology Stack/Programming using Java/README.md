@@ -2,7 +2,7 @@
 
 Test your Programming using Java knowledge with these 25 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
-**Question 1:** WWhat will be the output of the code given below?
+**Question 1:** What will be the output of the code given below?
 
 ```typescript
 public class Tester {
