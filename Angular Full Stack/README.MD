@@ -6,7 +6,7 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 
 | Topic                      | Video Link                                                                                         | Duration   | Score   |
 |---------------------------|-----------------------------------------------------------------------------------------------------|------------|---------|
-| JavaScript                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/qIhsQiETTw0)         | 2m 57sec   | 100% ✅ |
+| **JavaScript**                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/qIhsQiETTw0)         | <p align="center">2m 57sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1pE9hy4LD-Vedgy99X9zNR9QOpXEk01Lq/view?usp=drive_link) |
 | Angular                   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/vckc8c24p_E?si=aivJFUKwilNDt-Om) | 3m 26sec   | 100% ✅ |
 | Angular Web Developer     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/Oy2HWnEP-zs?si=Vekh9DOoI52wZuWp) | 5m 37sec   | 72.5% ✅ |
 | Twitter Bootstrap         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/jk6vzNhhnVw)         | 3m 19sec   | 100% ✅ |
@@ -14,9 +14,9 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 | User Experience           | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/fwT2_qU942I)         | 5m 12sec   | 100% ✅ |
 | Website Creation          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/b4h8bNmFntA)         | 1m 41sec   | 100% ✅ |
 | Creating Responsive Web Pages using Bootstrap 4          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/GKQIhKAnqGk)         | 2m 43sec   | 100% ✅ |
-| Agile Scrum in Practice          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)         | 1m 41sec   | 100% ✅ |
-| Time Management          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)         | 1m 40sec   | 100% ✅ |
-| Email Writing          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)         | 2m 40sec   | 100% ✅ |
+| **Agile Scrum in Practice**          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)         | <p align="center">1m 41s</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1K2f-Z70Gl1ug-ZJaJbV2uPY1wRkVHFIt/view?usp=drive_link) |
+| **Time Management**                  | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp) | <p align="center">1m 40s</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1rwQi96Mipgpz-S_lyF4WpKkd1yeLBCFp/view?usp=drive_link) |
+| **Email Writing**                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)         | <p align="center">2m 40s</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/18_XVxNSXfTK9B64GzqJL3yfPluNtFBHM/view?usp=drive_link) |
 
 ## 💯 Why These Work
 
