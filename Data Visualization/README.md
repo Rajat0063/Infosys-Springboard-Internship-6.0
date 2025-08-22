@@ -4,15 +4,16 @@ Boost your scores to 100% with these comprehensive tutorial videos. Clear explan
 
 ## 📚 Video Tutorials
 
-| 📌 Topic                             | 🔗 Video Link                                                                 | ⏱️ Duration         | ✅ Score | ⬇️ PDF Notes |
-|-------------------------------------|------------------------------------------------------------------------------|----------------------|----------|--------------|
-| **Learning Power BI**                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/OYw-v6kJTu8)        | <p align="center">2min 48sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/your-link-to-learning-powerbi) |
-| **Power BI for Business Professionals** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/roHsHu6ToqQ)        | <p align="center">1min 59sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/your-link-to-business-professionals) |
-| **Power BI Training**                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/7OVllYC1U6w)         | <p align="center">2min 57sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1pE9hy4LD-Vedgy99X9zNR9QOpXEk01Lq/view?usp=drive_link) |
-| **Agile Scrum in Practice**          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)         | <p align="center">1min 41sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1K2f-Z70Gl1ug-ZJaJbV2uPY1wRkVHFIt/view?usp=drive_link) |
-| **Time Management**                  | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp) | <p align="center">1min 40sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1rwQi96Mipgpz-S_lyF4WpKkd1yeLBCFp/view?usp=drive_link) |
-| **Email Writing**                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)         | <p align="center">2min 40sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/18_XVxNSXfTK9B64GzqJL3yfPluNtFBHM/view?usp=drive_link) |
+# 📊 Power BI & Skills Training Progress
 
+| 📌 **Topic**                          | 🔗 **Video Link**                                                                                              | ⏱️ **Duration**     | 🎯 **Score** |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|--------------|
+| **Learning Power BI**                 | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/OYw-v6kJTu8)                     | 2min 48sec          | 100% ✅       |
+| **Power BI for Business Professionals** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/roHsHu6ToqQ)                     | 1min 59sec          | 100% ✅       |
+| **Power BI Training**                 | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/7OVllYC1U6w)                     | 2min 57sec          | 100% ✅       |
+| **Agile Scrum in Practice**           | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                     | 1min 41sec          | 100% ✅       |
+| **Time Management**                   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp) | 1min 40sec          | 100% ✅       |
+| **Email Writing**                     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                     | 2min 40sec          | 100% ✅       |
 
 ## 💯 Why These Work
 
