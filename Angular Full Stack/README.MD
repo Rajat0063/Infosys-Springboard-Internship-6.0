@@ -40,7 +40,7 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 
 ---
 
-## Need more help?
+**Need more help?**
 🔔 Never miss a creative coding tutorial! [![Code Artistry](https://img.shields.io/badge/YouTube-Code%20Artistry-red?logo=youtube&logoColor=white)](https://www.youtube.com/@CodeArtistry63) <br>
 💬 *Drop your doubts in the comments*  
 ⭐ *Star this repo if you found it helpful*
