@@ -7,11 +7,11 @@ Boost your scores to 💯 with these comprehensive tutorial videos and downloada
 ## 🎥📄 Complete Learning Package – Watch & Download
 
 | 📌 Topic                  | 🔗 Video Link                                                                                                   | ⏱️ Duration       | ✅ Score |--------------------------|------------------------------------------------------------------------------------------------------------------|-------------------|---------|-------------------------------------------------------------------------------|
-| **Java Foundation Certification** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/Vh7cez_Yxbo)                    | <p align="center">7min 20sec</p> | 98.5% ✅  | [⬇️ Download Solutions](https://drive.google.com/your-link-to-java-foundation-certification)       |
-| **Programming using Java** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/bcz6RrV4Otc)                    | <p align="center">4min 36sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1VOMroRZbpo5qa_aeQkNVaO2DeVgoWzJJ/view?usp=drive_link)       |
-| **Agile Scrum in Practice** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                    | <p align="center">1min 41sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1K2f-Z70Gl1ug-ZJaJbV2uPY1wRkVHFIt/view?usp=drive_link)       |
-| **Time Management**         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)| <p align="center">1min 40sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/1rwQi96Mipgpz-S_lyF4WpKkd1yeLBCFp/view?usp=drive_link)   |
-| **Email Writing Skills**    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                    | <p align="center">2min 40sec</p> | 100% ✅  | [⬇️ Download Solutions](https://drive.google.com/file/d/18_XVxNSXfTK9B64GzqJL3yfPluNtFBHM/view?usp=drive_link)     |
+| **Java Foundation Certification** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/Vh7cez_Yxbo)                    | <p align="center">7min 20sec</p> | 98.5% ✅  |
+| **Programming using Java** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/bcz6RrV4Otc)                    | <p align="center">4min 36sec</p> | 100% ✅  |
+| **Agile Scrum in Practice** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                    | <p align="center">1min 41sec</p> | 100% ✅  |
+| **Time Management**         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)| <p align="center">1min 40sec</p> | 100% ✅  |
+| **Email Writing Skills**    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                    | <p align="center">2min 40sec</p> | 100% ✅  |
 
 ---
 
