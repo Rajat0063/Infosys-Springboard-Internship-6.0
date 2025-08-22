@@ -31,12 +31,12 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 3. Practice alongside the tutorial
 4. Repeat challenging sections as needed
 
-> "These tutorials helped me go from struggling to top scorer in my class!" - Happy Learner
+> 🗣️ _“These tutorials helped me go from struggling to top scorer in my class!”_ – Happy Learner
 
 ## 📌 Pro Tips
-- Bookmark this page for quick reference
-- Take notes while watching
-- Pause and code along with the examples
+- 📑 Bookmark this page for easy access  
+- 📝 Take notes while learning  
+- ⏸️ Pause and practice with examples
 
 ---
 

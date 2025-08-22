@@ -16,34 +16,27 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 
 ## 💯 Why These Work
 
-✅ **Guaranteed 100% Scores** – Real assessment solutions  
-✅ **Crystal Clear Explanations** – Easy to follow, beginner-friendly  
-✅ **Time-Saving Format** – Learn fast with concise content  
-✅ **Visual + Written** – Watch and revise with video + notes combo
-
----
+✔ **Guaranteed 100% Scores** - Direct solutions to common assessment questions  
+✔ **Crystal Clear Explanations** - No jargon, just straightforward learning  
+✔ **Time-Saving** - Get right to the key concepts you need  
+✔ **Visual Learning** - Watch complex topics become simple  
 
 ## 🎯 How to Use
-1. Click any **video** or **PDF** link in the table above  
-2. Watch at 1.25× speed to save time  
-3. Practice and revise with the downloadable PDF  
-4. Repeat tricky sections to master the topic
+1. Click any video badge above
+2. Watch at 1.25x speed for quick review
+3. Practice alongside the tutorial
+4. Repeat challenging sections as needed
 
 > 🗣️ _“These tutorials helped me go from struggling to top scorer in my class!”_ – Happy Learner
-
----
 
 ## 📌 Pro Tips
 - 📑 Bookmark this page for easy access  
 - 📝 Take notes while learning  
-- ⏸️ Pause and practice with examples  
-- 💡 Use PDFs for quick revision before assessments
+- ⏸️ Pause and practice with examples
 
 ---
 
-**Need More Help?**  
-🔔 *Subscribe to [Code Artistry](https://www.youtube.com/@CodeArtistry63)*  
-💬 *Drop your doubts in the comments*  
+**Need more help?**  
+🔔 *Subscribe to the channels for updates*  
+💬 *Comment on videos with questions*  
 ⭐ *Star this repo if you found it helpful*
-
-
