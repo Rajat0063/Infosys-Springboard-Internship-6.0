@@ -1,6 +1,6 @@
-# Email Writing Quiz Questions
+# Introduction to Natural Language Processing Quiz Questions
 
-Test your Email Writing knowledge with these 10 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+Test your Introduction to Natural Language Processing knowledge with these 15 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
 **Question 1:** One of the main challenges in NLP is:
 
