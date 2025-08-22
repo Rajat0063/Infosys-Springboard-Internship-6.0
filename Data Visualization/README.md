@@ -1,6 +1,6 @@
 # Assessment Solutions Guide 🚀
 
-Boost your scores to 100% with these comprehensive tutorial videos. Clear explanations and step-by-step walkthroughs will help you fully understand each concept.
+Boost your scores to 💯 with these comprehensive tutorial videos. Clear explanations and step-by-step walkthroughs will help you fully understand each concept.
 
 ## 📚 Video Tutorials
 

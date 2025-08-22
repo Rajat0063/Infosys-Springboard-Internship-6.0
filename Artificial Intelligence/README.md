@@ -1,6 +1,6 @@
 # 🎓 Assessment Solutions Guide 🚀
 
-Boost your scores to 💯 with these comprehensive tutorial videos and downloadable notes. Clear explanations, quick demos, and step-by-step PDFs make learning fast and easy.
+Boost your scores to 💯 with these comprehensive tutorial videos. Clear explanations and step-by-step walkthroughs will help you fully understand each concept.
 
 ---
 
