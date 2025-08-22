@@ -38,6 +38,6 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 ---
 
 **Need more help?**  
-🔔 *Subscribe to the channels for updates*  
-💬 *Comment on videos with questions*  
+🔔 *Subscribe to [Code Artistry](https://www.youtube.com/@CodeArtistry63)*  
+💬 *Drop your doubts in the comments*  
 ⭐ *Star this repo if you found it helpful*
