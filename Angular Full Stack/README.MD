@@ -17,6 +17,7 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 | **Agile Scrum in Practice**               | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                     | 1min 41sec          | 100% ✅       |
 | **Time Management**                       | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp) | 1min 40sec          | 100% ✅       |
 | **Email Writing**                         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                     | 2min 40sec          | 100% ✅       |
+| **High Impact Presentation**                         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/4Zdk_m6jdbg)                     | 2min 30sec          | 100% ✅       |
 
 ## 💯 Why These Work
 
