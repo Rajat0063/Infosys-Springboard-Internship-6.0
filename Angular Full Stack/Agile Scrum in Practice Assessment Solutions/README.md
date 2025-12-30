@@ -156,7 +156,7 @@ D) The tasks that are not completely done at the end of the sprint are always mo
 
 **Question 13:** Choose the statement which is CORRECT with respect to User stories.<br>
 
-<input type="circle">User stories have three C's - Card, Confirmation criteria, Conversation
+<input type="radio">User stories have three C's - Card, Confirmation criteria, Conversation
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
