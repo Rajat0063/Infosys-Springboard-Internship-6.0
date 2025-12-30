@@ -244,10 +244,10 @@ The Company has a 5 day week and 6 working hours per day, per person are conside
 
 **Question 19:** Which among the following is NOT the focus of sprint Retrospective?<br>
 
-i => What process steps should be continued in the next sprint<br>
-ii => What process steps should be started in the next sprint<br>
-iii => What product features should be started in the next sprint<br>
-iv => What process steps should be stopped in the next sprint
+(i)   What process steps should be continued in the next sprint<br>
+(ii)  What process steps should be started in the next sprint<br>
+(iii) What product features should be started in the next sprint<br>
+(iv)  What process steps should be stopped in the next sprint
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
