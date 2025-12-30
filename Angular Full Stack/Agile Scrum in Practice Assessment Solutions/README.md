@@ -84,7 +84,12 @@ D) For release planning, team should have gone for relative estimation with a ba
 A) Changes are easier to make even after initial planning<br>
 B) The final product is completely aligned to the initial requirements<br>
 C) Testing in each iteration ensures bugs are caught early<br>
-D) All-at-once delivery in Agile ensures that all the requirements that were signed off are delivered
+D) All-at-once delivery in Agile ensures that all the requirements that were signed off are delivered<br>
+
+A and C<br>
+A and B<br>
+B, C and D<br>
+A, B and D
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -157,9 +162,9 @@ D) The tasks that are not completely done at the end of the sprint are always mo
 **Question 13:** Choose the statement which is CORRECT with respect to User stories.<br>
 
 A) User stories have three C's - Card, Confirmation criteria, Conversation<br>
-A) User stories have three C's - Card, Confirmation criteria, Conversation<br>
-A) User stories have three C's - Card, Confirmation criteria, Conversation<br>
-A) User stories have three C's - Card, Confirmation criteria, Conversation
+B) User stories are another form of IEEE way of representing requirements<br>
+C) User stories should be sized so that one user story can be completed in a couple of sprints<br>
+D) User stories are estimated using Function points
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
@@ -200,7 +205,12 @@ D) The story points of tasks are added-up to compute respective user story point
 
 </details>
 
-**Question 16:** A team has started employing Test Driven Development in their project. They have started writing unit tests before the code, their code coverage percentage is also good based on the number of unit tests they are writing, and the tests are passing too. Still, there are some concerns shared by the code reviewers on the quality of production code. They have observed duplicate code, workarounds to bug fixes and instances of hardcoding in the code. What could the team have possibly missed in implementing TDD?
+**Question 16:** A team has started employing Test Driven Development in their project. They have started writing unit tests before the code, their code coverage percentage is also good based on the number of unit tests they are writing, and the tests are passing too. Still, there are some concerns shared by the code reviewers on the quality of production code. They have observed duplicate code, workarounds to bug fixes and instances of hardcoding in the code. What could the team have possibly missed in implementing TDD?<br>
+
+A) Not written enough test cases<br>
+B) Not employed any unit test framework<br>
+C) Not reviewed code of test cases<br>
+D) Not paid adequate attention to refactoring
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer:  <br><br>
@@ -232,7 +242,12 @@ The Company has a 5 day week and 6 working hours per day, per person are conside
 
 </details>
 
-**Question 19:** Which among the following is NOT the focus of sprint Retrospective?
+**Question 19:** Which among the following is NOT the focus of sprint Retrospective?<br>
+
+A) What process steps should be continued in the next sprint<br>
+B) What process steps should be started in the next sprint<br>
+C) What product features should be started in the next sprint<br>
+D) What process steps should be stopped in the next sprint
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: <br><br>
