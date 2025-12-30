@@ -2,7 +2,7 @@
 
 Test your Agile Scrum knowledge with these 20 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
-**Question 1:** A Scrum team has started work on a sprint, with a plan to complete stories U1 and U2, estimated at 3 points each, and story U3, estimated at 5 points. At the end of the sprint, stories U1 and U2 is complete but U3 is not yet complete, with the unit testing remaining.<br>
+<span style="color:blue;">**Question 1:**</span> A Scrum team has started work on a sprint, with a plan to complete stories U1 and U2, estimated at 3 points each, and story U3, estimated at 5 points. At the end of the sprint, stories U1 and U2 is complete but U3 is not yet complete, with the unit testing remaining.<br>
 What is the velocity of the team?
 
 <details> <summary><b>🔍 View Answer</b></summary>
