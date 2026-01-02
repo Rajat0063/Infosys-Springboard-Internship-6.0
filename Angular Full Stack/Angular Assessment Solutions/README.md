@@ -1,4 +1,4 @@
-# Angular Quiz Questions
+# Angular Quiz 30 Quiz Questions
 
 Test your Angular knowledge with these 30 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
@@ -26,8 +26,6 @@ ngAfterViewChecked
 </details>
 
 **Question 4:** Which of the below syntax will clone and add DOM elements when the condition is true and removes from DOM when the condition is false?
-
-
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: *ngIf="conditional"
@@ -416,6 +414,10 @@ export class AppComponent {
            courseTitle: string = 'Angular';
 }
 ```
+(i)   Welcome to Angular
+(ii)  Welcome to {{courseTitle}}
+(iii) Angular
+(iv)  None of the above
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Welcome to Angular
