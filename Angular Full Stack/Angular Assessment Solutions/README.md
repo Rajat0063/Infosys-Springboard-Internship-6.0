@@ -520,11 +520,12 @@ export class AppComponent implements OnInit,  DoCheck,
 </details>
 
 **Question 30:** Which of the following is correct to define the template of a component?<br>
-
+```
 (i)   @Component({    selector: 'app-coursedetail',    template: './coursedetail.component.html'    })<br>
 (ii)  @Component({    selector: 'app-coursedetail',    templateUrl: `<h1>Welcome to Angular</h1>`    })<br>
 (iii) @Component({    name: 'app-coursedetail',    template: '<h1>Welcome to Angular</h1>'    })<br>
 (iv)  @Component({    selector: 'app-coursedetail',    templateUrl: './coursedetail.component.html'    })
+```
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: @Component({    selector: 'app-coursedetail',    templateUrl: './coursedetail.component.html'    })
