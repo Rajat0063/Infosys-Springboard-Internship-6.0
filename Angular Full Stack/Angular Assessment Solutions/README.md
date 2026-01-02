@@ -2,7 +2,12 @@
 
 Test your Angular knowledge with these 30 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
-**Question 1:** Which life cycle hook(s) is used to get the value of the reference that is fetched by @viewChild decorator in a component class?[Select any two]
+**Question 1:** Which life cycle hook(s) is used to get the value of the reference that is fetched by @viewChild decorator in a component class?[Select any two]<br>
+
+(i)   ngAfterViewInit<br>
+(ii)  ngAfterViewChecked<br>
+(iii) ngInit<br>
+(iv)  ngDoCheck
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: ngAfterViewInit
@@ -43,7 +48,12 @@ ngAfterViewChecked
 
 1. Module is a block of code with specific functionality that is used to organize the application
 
-2. Each component created in an Angular application should be made part of a module
+2. Each component created in an Angular application should be made part of a module<br>
+
+(i)   Only (i) is true<br>
+(ii)  Only (ii) is true<br>
+(iii) Both (i) and (ii) are true<br>
+(iv)  Neither (i) or (ii) is true
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Both (i) and (ii) are true
@@ -72,6 +82,11 @@ ngAfterViewChecked
 2. <button onClick = "onSubmit(userName.value,password.value)">Login</button>
 ```
 
+(i)   Only (i) is correct<br>
+(ii)  Only (ii) is correct<br>
+(iii) Both (i) and (ii) are correct<br>
+(iv)  Neither (i) or (ii) are correct
+
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Only (i) is correct
 
@@ -90,6 +105,11 @@ ngAfterViewChecked
 (7)            tap(data => console.log("All: " + JSON.stringify(data))),
 (8)            catchError(this.handleError))}
 ```
+
+(i)   Line 6<br>
+(ii)  Line 7<br>
+(iii) Line 8<br>
+(iv)  No line in the given code will be executed
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Line 8
@@ -141,7 +161,12 @@ AuthLogin.service.ts:
 It contains a method called isSignedIn which returns a variable signedIn of boolean value false wrapped inside a promise object.
 
 
-Select the correct option to protect the path in users component in Angular.
+Select the correct option to protect the path in users component in Angular.<br>
+
+(i)   {path : 'users' , canActivate:[AuthLogin], component:UsersComponent}<br>
+(ii)  {path : 'users' , canActivate:[ProtectGuard], component:UsersComponent}<br>
+(iii) {path : 'users' , canActivate:'AuthLogin', component:UsersComponent}<br>
+(iv)  {path : 'users' , canActivate:'ProtectGuard', component:UsersComponent}
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: {path : 'users' , canActivate:[ProtectGuard], component:UsersComponent}
@@ -180,7 +205,12 @@ Select the correct option to protect the path in users component in Angular.
 </details>
 
 
-**Question 13:** In reactive forms, which of the following class is used to build a reactive form object inside a component class?
+**Question 13:** In reactive forms, which of the following class is used to build a reactive form object inside a component class?<br>
+
+(i)   FormGroup<br>
+(ii)  Validators<br>
+(iii) FormBuilder<br>
+(iv)  All of the above
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: FormBuilder
@@ -238,7 +268,12 @@ Which of the following can be written in line 4 for retrieving static data from 
 </details>
 
 
-**Question 17:** While passing the data from child to parent/container component, the property we create in the child component must be of which type?
+**Question 17:** While passing the data from child to parent/container component, the property we create in the child component must be of which type?<br>
+
+(i)   EventEmitter<br>
+(ii)  EventSender<br>
+(iii) EventAny<br>
+(iv)  None of the above
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: EventEmitter
@@ -269,6 +304,11 @@ Which of the following can be written in line 4 for retrieving static data from 
 (11)         {"name":"James Cook Kent street","address":"Sydney","status":"active"}];}
 ```
 
+(i)   Line Number 3<br>
+(ii)  Line Number 4<br>
+(iii) Line Number 5<br>
+(iv)  Line Number 8
+
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Line Number 5
 
@@ -292,6 +332,11 @@ Which of the following can be written in line 4 for retrieving static data from 
 (10) export const routing = RouterModule.forRoot(routes);
 ```
 
+(i)   Line 6<br>
+(ii)  Line 7<br>
+(iii) Line 8<br>
+(iv)  Line 9
+
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Line 7
 
@@ -302,7 +347,12 @@ Which of the following can be written in line 4 for retrieving static data from 
 
 1. Reactive forms are used for large size forms
 
-2. In Reactive forms, form control objects are created in the component class and will be bounded to the form elements in the template
+2. In Reactive forms, form control objects are created in the component class and will be bounded to the form elements in the template<br>
+
+(i)   Only (i) is true<br>
+(ii)  Only (ii) is true<br>
+(iii) Both (i) and (ii) are true<br>
+(iv)  None of the given options are true
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Both (i) and (ii) are true
@@ -322,7 +372,12 @@ Which of the following can be written in line 4 for retrieving static data from 
 
 (a) @Input and @Output decorators
 
-(b) route parameters in routing
+(b) route parameters in routing<br>
+
+(i)   Only (a) can be used<br>
+(ii)  Only (b) can be used<br>
+(iii) Both (a) and (b) can be used<br>
+(iv)  None of the given methods can be used
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: Both (a) and (b) can be used
@@ -358,7 +413,11 @@ app.module.ts:
 
 What will happen when the user will navigate to the 'user' route?
 
-Note: All necessary imports are done.
+Note: All necessary imports are done.<br>
+
+(i)   Path 'user' does match any routepaths.<br>
+(ii)  UserComponent will be loaded dynamically.<br>
+(iii) Module will be loaded and it will add its routes to AppModule 
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: UserModule will be loaded and it will add its routes to AppModule
@@ -460,7 +519,12 @@ export class AppComponent implements OnInit,  DoCheck,
 
 </details>
 
-**Question 30:** Which of the following is correct to define the template of a component?
+**Question 30:** Which of the following is correct to define the template of a component?<br>
+
+(i)   @Component({    selector: 'app-coursedetail',    template: './coursedetail.component.html'    })<br>
+(ii)  @Component({    selector: 'app-coursedetail',    templateUrl: `<h1>Welcome to Angular</h1>`    })<br>
+(iii) @Component({    name: 'app-coursedetail',    template: '<h1>Welcome to Angular</h1>'    })<br>
+(iv)  @Component({    selector: 'app-coursedetail',    templateUrl: './coursedetail.component.html'    })
 
 <details> <summary><b>🔍 View Answer</b></summary>
 ✅ Answer: @Component({    selector: 'app-coursedetail',    templateUrl: './coursedetail.component.html'    })
