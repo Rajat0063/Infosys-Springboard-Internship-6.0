@@ -414,9 +414,9 @@ export class AppComponent {
            courseTitle: string = 'Angular';
 }
 ```
-(i)   Welcome to Angular
-(ii)  Welcome to {{courseTitle}}
-(iii) Angular
+(i)   Welcome to Angular<br>
+(ii)  Welcome to {{courseTitle}}<br>
+(iii) Angular<br>
 (iv)  None of the above
 
 <details> <summary><b>🔍 View Answer</b></summary>
