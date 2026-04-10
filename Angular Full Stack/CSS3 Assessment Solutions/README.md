@@ -10,7 +10,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Exact value match</p>
 
 </details>
 
@@ -22,7 +22,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ `hsla(234, 100%, 30%, 0.2)`</p>
 
 </details>
 
@@ -34,7 +34,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -48,7 +48,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -61,7 +61,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -74,7 +74,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -87,7 +87,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -100,7 +100,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -113,7 +113,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -125,7 +125,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -138,7 +138,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -151,7 +151,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -164,7 +164,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -177,7 +177,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -190,7 +190,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -203,7 +203,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -216,7 +216,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -228,7 +228,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -242,7 +242,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -254,7 +254,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -267,7 +267,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -280,7 +280,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -293,7 +293,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -306,7 +306,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
 
@@ -319,6 +319,6 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-✅ Answer: <p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Controlling the layout on mobile browsers</p>
 
 </details>
