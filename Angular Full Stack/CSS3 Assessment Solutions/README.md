@@ -22,7 +22,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ `hsla(234, 100%, 30%, 0.2)`</p>
+<p align="center">✔️ hsla(234, 100%, 30%, 0.2)</p>
 
 </details>
 
@@ -34,7 +34,9 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ The font-family property can take only the fonts which are supported by the browser, otherwise there will be an error <br> ✔️ The font-family Arial should be mentioned in quotes 
+<br> ✔️ Multiple font families cannot be specified to the font-family property
+</p>
 
 </details>
 
@@ -48,7 +50,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ orange because the last key frame value(100%) is not specified</p>
 
 </details>
 
@@ -61,7 +63,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ The entire image will be placed at the corners of the paragraph as the image will not be sliced since the border-slice value is not specified.</p>
 
 </details>
 
@@ -74,7 +76,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ border-radius will affect all the corners</p>
 
 </details>
 
@@ -87,7 +89,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ The div will be moved 100px to the downwards</p>
 
 </details>
 
@@ -100,7 +102,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Both the text shadows will be applied for the text</p>
 
 </details>
 
@@ -113,7 +115,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ transition-duration is not specified</p>
 
 </details>
 
@@ -125,7 +127,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ position and bottom</p>
 
 </details>
 
@@ -138,7 +140,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ div{width:100px; height:100px; border:1px solid black; background:blue; transition: 4s steps(4)} div:hover {transform:scale(4);}</p>
 
 </details>
 
@@ -151,7 +153,9 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Transition will not occur as the transition timing function is not specified to the transition property 
+<br> ✔️ Transition of width, height and background-color of the div element happens as soon as the page is loaded in the browser as transition-delay is not specified.
+</p>
 
 </details>
 
@@ -164,7 +168,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ yellow and pink</p>
 
 </details>
 
@@ -177,7 +181,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Only "h1" will appear in red color</p>
 
 </details>
 
@@ -190,7 +194,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ paragraph2 and paragraph3 are rendered in green color</p>
 
 </details>
 
@@ -203,7 +207,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Sunil can specify the same animation for all the balls and need to change the animation-delay</p>
 
 </details>
 
@@ -216,7 +220,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ both the divs are selected</p>
 
 </details>
 
@@ -228,7 +232,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ meta http-equiv="Content-Security-Policy" content="style-src 'default'"</p>
 
 </details>
 
@@ -242,7 +246,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ left:100px top:0px</p>
 
 </details>
 
@@ -254,7 +258,9 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ margin-top for p tag 
+<br> ✔️ margin-bottom for h1 tag
+</p>
 
 </details>
 
@@ -267,7 +273,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ @media screen and (max-width: 699px) and (min-width: 520px) {div{background-color: blue;}}</p>
 
 </details>
 
@@ -280,7 +286,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ aqua and black</p>
 
 </details>
 
@@ -293,7 +299,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ The corners will not be curved</p>
 
 </details>
 
@@ -306,7 +312,7 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ 0px</p>
 
 </details>
 
@@ -319,6 +325,14 @@ Test your CSS3 knowledge with these 25 challenging questions. Each question incl
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
-<p align="center">✔️ Controlling the layout on mobile browsers</p>
+<p align="center">✔️ Content of h1 tag is styled for both font-family and background-color</p>
 
 </details>
+
+---
+
+Thank you for visiting! We hope this repository has been instrumental in helping you earn your CSS3 certification. Congratulations on your achievement!
+
+Please consider starring this repository ⭐ if you found the certification answers helpful—it supports our efforts to provide more resources like this.
+
+If you have any questions or feedback, feel free to reach out. Happy coding!
