@@ -8,10 +8,11 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 
 | 📌 **Topic**                            | 🔗 **Video Link**                                                                                              | ⏱️ **Duration**     | 🎯 **Score** |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Agile Scrum in Practice**             | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                     | 1min 41sec          | 100% ✅       |
+| **Artificial Intelligence Primer Cetification**     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/ThB0mDAoAFo)                     | 4min 3sec          | 75% ✅        |
+| **Agile Scrum in Practice**             | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                     | 1min 41sec         | 100% ✅       |
 | **Time Management**                     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp) | 1min 40sec          | 100% ✅       |
-| **Email Writing Skills**                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                     | 2min 40sec          | 100% ✅       |
-| **Introduction to Natural Language Processing** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                     | 2min 40sec          | 100% ✅       |
+| **Email Writing Skills**                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                     | 2min 40sec         | 100% ✅       |
+| **Introduction to Natural Language Processing** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                     | 2min 40sec         | 100% ✅       |
 ---
 
 ## 💯 Why These Work
