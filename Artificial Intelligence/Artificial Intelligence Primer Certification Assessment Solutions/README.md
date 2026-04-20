@@ -6,7 +6,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 1](../assets/Screenshot%202026-04-11%20151638.png3)
+![Question 1](../assets/Screenshot%202026-04-11%20151638.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
