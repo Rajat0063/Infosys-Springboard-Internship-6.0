@@ -292,6 +292,114 @@ Test your Python Foundation Certification knowledge with these 10 challenging qu
 
 </details>
 
+## Question 25
+
+### Question
+
+![Question 25](../assets/Screenshot%202026-04-20%20142333.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 26
+
+### Question
+
+![Question 26](../assets/Screenshot%202026-04-20%20142353.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 27
+
+### Question
+
+![Question 27](../assets/Screenshot%202026-04-20%20142406.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 28
+
+### Question
+
+![Question 28](../assets/Screenshot%202026-04-20%20142421.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 29
+
+### Question
+
+![Question 29](../assets/Screenshot%202026-04-20%20142435.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 30
+
+### Question
+
+![Question 30](../assets/Screenshot%202026-04-20%20142454.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 31
+
+### Question
+
+![Question 31](../assets/Screenshot%202026-04-20%20142530.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 32
+
+### Question
+
+![Question 32](../assets/Screenshot%202026-04-20%20142549.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
+## Question 33
+
+### Question
+
+![Question 33](../assets/Screenshot%202026-04-20%20142606.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Multi slot class</p>
+
+</details>
+
 # Python_Section 2
 
 ## Question 1
@@ -438,6 +546,66 @@ Test your Python Foundation Certification knowledge with these 10 challenging qu
 
 </details>
 
+## Question 13
+
+### Question
+
+![Question 13](../assets/Screenshot%202026-04-20%20142633.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increased baterry life of the UE</p>
+
+</details>
+
+## Question 14
+
+### Question
+
+![Question 14](../assets/Screenshot%202026-04-20%20142657.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increased baterry life of the UE</p>
+
+</details>
+
+## Question 15
+
+### Question
+
+![Question 15](../assets/Screenshot%202026-04-20%20142712.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increased baterry life of the UE</p>
+
+</details>
+
+## Question 16
+
+### Question
+
+![Question 16](../assets/Screenshot%202026-04-20%20142730.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increased baterry life of the UE</p>
+
+</details>
+
+## Question 17
+
+### Question
+
+![Question 17](../assets/Screenshot%202026-04-20%20142810.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increased baterry life of the UE</p>
+
+</details>
+
 # Python_Section 3
 
 ## Question 1
@@ -481,6 +649,30 @@ Test your Python Foundation Certification knowledge with these 10 challenging qu
 ### Question
 
 ![Question 4](../assets/Screenshot%202026-04-20%20133937.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increasing symbol duration by transmitting data on multiple orthogonal carrier frequencies</p>
+
+</details>
+
+## Question 5
+
+### Question
+
+![Question 5](../assets/Screenshot%202026-04-20%20142834.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increasing symbol duration by transmitting data on multiple orthogonal carrier frequencies</p>
+
+</details>
+
+## Question 6
+
+### Question
+
+![Question 6](../assets/Screenshot%202026-04-20%20142849.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
