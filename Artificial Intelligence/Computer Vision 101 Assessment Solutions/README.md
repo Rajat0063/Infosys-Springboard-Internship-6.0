@@ -1,4 +1,4 @@
-# CSS3 Assessment Solutions
+# Computer Vision 101 Assessment Solutions
 
 Test your Computer Vision 101 knowledge with these 10 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 

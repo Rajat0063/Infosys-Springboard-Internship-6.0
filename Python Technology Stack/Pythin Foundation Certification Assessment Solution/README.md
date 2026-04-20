@@ -1,12 +1,14 @@
-# Artificial Intelligence Primer Certification Assessment Solutions
+# Python Foundation Certification Assessment Solutions
 
-Test your Artificial Intelligence knowledge with these 10 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+Test your Python Foundation Certification knowledge with these 10 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+
+# Python_Section 1
 
 ## Question 1
 
 ### Question
 
-![Question 1](../assets/Screenshot%202026-04-11%20151638.png3)
+![Question 1](../assets/Screenshot%202026-04-20%20132840.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -18,7 +20,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 2](../assets/Screenshot%202026-04-11%20151658.png)
+![Question 2](../assets/Screenshot%202026-04-20%20132909.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -30,7 +32,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 3](../assets/Screenshot%202026-04-11%20151715.png)
+![Question 3](../assets/Screenshot%202026-04-20%20132927.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -42,7 +44,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 4](../assets/Screenshot%202026-04-11%20151732.png)
+![Question 4](../assets/Screenshot%202026-04-20%20132957.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -54,7 +56,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 5](../assets/Screenshot%202026-04-11%20151751.png)
+![Question 5](../assets/Screenshot%202026-04-20%20133011.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -66,7 +68,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 6](../assets/Screenshot%202026-04-11%20151806.png)
+![Question 6](../assets/Screenshot%202026-04-20%20133026.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -78,7 +80,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 7](../assets/Screenshot%202026-04-11%20151820.png)
+![Question 7](../assets/Screenshot%202026-04-20%20133043.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -90,7 +92,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 8](../assets/Screenshot%202026-04-11%20151837.png)
+![Question 8](../assets/Screenshot%202026-04-20%20133058.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -102,7 +104,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 9](../assets/Screenshot%202026-04-11%20151854.png)
+![Question 9](../assets/Screenshot%202026-04-20%20133112.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -114,7 +116,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 10](../assets/Screenshot%202026-04-11%20151911.png)
+![Question 10](../assets/Screenshot%202026-04-20%20133124.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -126,7 +128,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 11](../assets/Screenshot%202026-04-11%20151953.png)
+![Question 11](../assets/Screenshot%202026-04-20%20133139.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -138,7 +140,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 12](../assets/Screenshot%202026-04-11%20152011.png)
+![Question 12](../assets/Screenshot%202026-04-20%20133152.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -150,7 +152,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 13](../assets/Screenshot%202026-04-11%20152026.png)
+![Question 13](../assets/Screenshot%202026-04-20%20133205.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -162,7 +164,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 14](../assets/Screenshot%202026-04-11%20152041.png)
+![Question 14](../assets/Screenshot%202026-04-20%20133220.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -174,7 +176,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 15](../assets/Screenshot%202026-04-11%20152055.png)
+![Question 15](../assets/Screenshot%202026-04-20%20133234.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -186,7 +188,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 16](../assets/Screenshot%202026-04-11%20152109.png)
+![Question 16](../assets/Screenshot%202026-04-20%20133248.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -198,7 +200,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 17](../assets/Screenshot%202026-04-11%20152125.png)
+![Question 17](../assets/Screenshot%202026-04-20%20133300.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -210,7 +212,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 18](../assets/Screenshot%202026-04-11%20152143.png)
+![Question 18](../assets/Screenshot%202026-04-20%20133315.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -222,7 +224,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 19](../assets/Screenshot%202026-04-11%20152159.png)
+![Question 19](../assets/Screenshot%202026-04-20%20133331.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -234,7 +236,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 20](../assets/Screenshot%202026-04-11%20152214.png)
+![Question 20](../assets/Screenshot%202026-04-20%20133346.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -246,7 +248,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 21](../assets/Screenshot%202026-04-11%20152233.png)
+![Question 21](../assets/Screenshot%202026-04-20%20133401.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -258,7 +260,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 22](../assets/Screenshot%202026-04-11%20152251.png)
+![Question 22](../assets/Screenshot%202026-04-20%20133417.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -270,7 +272,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 23](../assets/Screenshot%202026-04-11%20152306.png)
+![Question 23](../assets/Screenshot%202026-04-20%20133430.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -282,7 +284,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ### Question
 
-![Question 24](../assets/Screenshot%202026-04-11%20152324.png)
+![Question 24](../assets/Screenshot%202026-04-20%20133448.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -290,11 +292,13 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 25
+# Python_Section 2
+
+## Question 1
 
 ### Question
 
-![Question 25](../assets/Screenshot%202026-04-11%20152340.png)
+![Question 1](../assets/Screenshot%202026-04-20%20133617.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -302,11 +306,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 26
+## Question 2
 
 ### Question
 
-![Question 26](../assets/Screenshot%202026-04-11%20152358.png)
+![Question 2](../assets/Screenshot%202026-04-20%20133630.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -314,11 +318,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 27
+## Question 3
 
 ### Question
 
-![Question 27](../assets/Screenshot%202026-04-11%20152422.png)
+![Question 3](../assets/Screenshot%202026-04-20%20133644.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -326,11 +330,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 28
+## Question 4
 
 ### Question
 
-![Question 28](../assets/Screenshot%202026-04-11%20152458.png)
+![Question 4](../assets/Screenshot%202026-04-20%20133657.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -338,11 +342,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 29
+## Question 5
 
 ### Question
 
-![Question 29](../assets/Screenshot%202026-04-11%20152512.png)
+![Question 5](../assets/Screenshot%202026-04-20%20133711.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -350,11 +354,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 30
+## Question 6
 
 ### Question
 
-![Question 30](../assets/Screenshot%202026-04-11%20152530.png)
+![Question 6](../assets/Screenshot%202026-04-20%20133724.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -362,11 +366,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 31
+## Question 7
 
 ### Question
 
-![Question 31](../assets/Screenshot%202026-04-11%20152547.png)
+![Question 7](../assets/Screenshot%202026-04-20%20133736.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -374,11 +378,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 32
+## Question 8
 
 ### Question
 
-![Question 32](../assets/Screenshot%202026-04-11%20152604.png)
+![Question 8](../assets/Screenshot%202026-04-20%20133753.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -386,11 +390,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 33
+## Question 9
 
 ### Question
 
-![Question 33](../assets/Screenshot%202026-04-11%20152618.png)
+![Question 9](../assets/Screenshot%202026-04-20%20133803.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -398,11 +402,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 34
+## Question 10
 
 ### Question
 
-![Question 34](../assets/Screenshot%202026-04-11%20152641.png)
+![Question 10](../assets/Screenshot%202026-04-20%20133818.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -410,11 +414,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 35
+## Question 11
 
 ### Question
 
-![Question 35](../assets/Screenshot%202026-04-11%20152654.png)
+![Question 11](../assets/Screenshot%202026-04-20%20133831.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -422,11 +426,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 36
+## Question 12
 
 ### Question
 
-![Question 36](../assets/Screenshot%202026-04-11%20152708.png)
+![Question 12](../assets/Screenshot%202026-04-20%20133844.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -434,11 +438,13 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 37
+# Python_Section 3
+
+## Question 1
 
 ### Question
 
-![Question 37](../assets/Screenshot%202026-04-11%20152727.png)
+![Question 1](../assets/Screenshot%202026-04-20%20133900.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -446,11 +452,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 38
+## Question 2
 
 ### Question
 
-![Question 38](../assets/Screenshot%202026-04-11%20152745.png)
+![Question 2](../assets/Screenshot%202026-04-20%20133913.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -458,11 +464,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 39
+## Question 3
 
 ### Question
 
-![Question 39](../assets/Screenshot%202026-04-11%20152802.png)
+![Question 3](../assets/Screenshot%202026-04-20%20133926.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -470,11 +476,11 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 </details>
 
-## Question 40
+## Question 4
 
 ### Question
 
-![Question 40](../assets/Screenshot%202026-04-11%20152815.png)
+![Question 4](../assets/Screenshot%202026-04-20%20133937.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -484,7 +490,7 @@ Test your Artificial Intelligence knowledge with these 10 challenging questions.
 
 ---
 
-Thank you for visiting! We hope this repository has been instrumental in helping you earn your Artificial Intelligence Primer certification. Congratulations on your achievement!
+Thank you for visiting! We hope this repository has been instrumental in helping you earn your Python Foundation certification. Congratulations on your achievement!
 
 Please consider starring this repository ⭐ if you found the certification answers helpful—it supports our efforts to provide more resources like this.
 
