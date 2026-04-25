@@ -15,7 +15,7 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 | **Database Management System Part-1**           | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](hhttps://youtu.be/yEmMGa2WUG0)                    | 3min 31sec            | 100% ✅       |
 | **Database System Management Part-2**           | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/wyYVZkfWR3Q)                    | 3min 01sec            | 100% ✅       |
 | **Agile Scrum in Parctice**                     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                    | 2min 40sec            | 100% ✅       |
-| **Python Foundation Certification**                     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/-p5j-rfaHiU)                    | 5min 11sec            | 95% ✅       |
+| **Python Foundation Certification**             | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/-p5j-rfaHiU)                    | 5min 11sec            | 95% ✅       |
 
 ---
 
