@@ -1,12 +1,12 @@
 # OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers Assessment Solutions
 
-Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers knowledge with these 10 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers knowledge with these 15 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
 ## Question 1
 
 ### Question
 
-![Question 1](../assets/Screenshot%202026-04-26%20022514.png)
+![Question 1](../assets/Screenshot%202026-04-26%20093439.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -18,7 +18,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 2](../assets/Screenshot%202026-04-26%20022524.png)
+![Question 2](../assets/Screenshot%202026-04-26%20093456.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -30,7 +30,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 3](../assets/Screenshot%202026-04-26%20022533.png)
+![Question 3](../assets/Screenshot%202026-04-26%20093512.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -42,7 +42,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 4](../assets/Screenshot%202026-04-26%20022544.png)
+![Question 4](../assets/Screenshot%202026-04-26%20093528.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -54,7 +54,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 5](../assets/Screenshot%202026-04-26%20022554.png)
+![Question 5](../assets/Screenshot%202026-04-26%20093548.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -66,7 +66,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 6](../assets/Screenshot%202026-04-26%20022604.png)
+![Question 6](../assets/Screenshot%202026-04-26%20093608.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -78,7 +78,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 7](../assets/Screenshot%202026-04-26%20022615.png)
+![Question 7](../assets/Screenshot%202026-04-26%20093627.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -90,7 +90,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 8](../assets/Screenshot%202026-04-26%20022624.png)
+![Question 8](../assets/Screenshot%202026-04-26%20093645.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -102,7 +102,7 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 9](../assets/Screenshot%202026-04-26%20022634.png)
+![Question 9](../assets/Screenshot%202026-04-26%20093658.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>
@@ -114,7 +114,67 @@ Test your OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers kno
 
 ### Question
 
-![Question 10](../assets/Screenshot%202026-04-26%20022647.png)
+![Question 10](../assets/Screenshot%202026-04-26%20093711.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increasing symbol duration by transmitting data on multiple orthogonal carrier frequencies</p>
+
+</details>
+
+## Question 11
+
+### Question
+
+![Question 11](../assets/Screenshot%202026-04-26%20093726.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increasing symbol duration by transmitting data on multiple orthogonal carrier frequencies</p>
+
+</details>
+
+## Question 12
+
+### Question
+
+![Question 12](../assets/Screenshot%202026-04-26%20093739.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increasing symbol duration by transmitting data on multiple orthogonal carrier frequencies</p>
+
+</details>
+
+## Question 13
+
+### Question
+
+![Question 13](../assets/Screenshot%202026-04-26%20093754.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increasing symbol duration by transmitting data on multiple orthogonal carrier frequencies</p>
+
+</details>
+
+## Question 14
+
+### Question
+
+![Question 14](../assets/Screenshot%202026-04-26%20093808.png)
+
+### Answer
+<details> <summary><b>🔍 View Answer</b></summary>
+<p align="center">✔️ Increasing symbol duration by transmitting data on multiple orthogonal carrier frequencies</p>
+
+</details>
+
+## Question 15
+
+### Question
+
+![Question 15](../assets/Screenshot%202026-04-26%20093824.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>

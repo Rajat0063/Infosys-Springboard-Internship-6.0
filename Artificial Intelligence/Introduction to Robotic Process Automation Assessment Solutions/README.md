@@ -107,7 +107,7 @@ Test your Introduction to Robotic Process Automation knowledge with these 10 cha
 
 ### Question
 
-![Question 9](../assets/Screenshot%202026-04-11%20120051.pngg)
+![Question 9](../assets/Screenshot%202026-04-11%20120051.png)
 
 ### Answer
 <details> <summary><b>🔍 View Answer</b></summary>

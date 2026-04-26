@@ -1,6 +1,6 @@
 # Artificial Intelligence Primer Certification Assessment Solutions
 
-Test your Artificial Intelligence knowledge with these 10 challenging questions. Each question includes the code snippet and the correct answer with explanation.
+Test your Artificial Intelligence knowledge with these 40 challenging questions. Each question includes the code snippet and the correct answer with explanation.
 
 ## Question 1
 
