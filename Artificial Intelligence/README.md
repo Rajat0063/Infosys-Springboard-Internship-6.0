@@ -8,14 +8,15 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 
 | 📌 **Topic**                            | 🔗 **Video Link**                                                                                              | ⏱️ **Duration**     | 🎯 **Score** |
 |-----------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **Artificial Intelligence Primer Cetification**                        | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/ThB0mDAoAFo)                        | 4min 3sec          | 75% ✅        |
-| **Introduction to OpenAI GPT Models**                                  | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]()                                                    | 00min 00sec          | 1000% ✅        |
-| **OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]()                                                    | 00min 00sec          | 1000% ✅        |
-| **Generative models for developers**                                   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]()                                                    | 00min 00sec          | 1000% ✅        |
-| **Agile Scrum in Practice**                                            | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                        | 1min 41sec         | 100% ✅       |
-| **Time Management**                                                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)    | 1min 40sec         | 100% ✅       |
-| **Email Writing Skills**                                               | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                        | 2min 40sec         | 100% ✅       |
-| **Introduction to Natural Language Processing**                        | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                        | 2min 40sec         | 100% ✅       |
+| **Artificial Intelligence Primer Cetification**                        | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/ThB0mDAoAFo)                        | 4min 3sec            | 75% ✅        |
+| **Principles of Generative AI Certification**                          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/1Od0xP2WhAI)                        | 4min 34sec           | 95% ✅        |
+| **Introduction to OpenAI GPT Models**                                  | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]()                                                    | 00min 00sec          | 100% ✅        |
+| **OpenAI Generative Pre-trained Transformer 3 (GPT-3) for developers** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]()                                                    | 00min 00sec          | 100% ✅        |
+| **Generative models for developers**                                   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]()                                                    | 00min 00sec          | 100% ✅        |
+| **Agile Scrum in Practice**                                            | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                        | 1min 41sec           | 100% ✅       |
+| **Time Management**                                                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp)    | 1min 40sec           | 100% ✅       |
+| **Email Writing Skills**                                               | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                        | 2min 40sec           | 100% ✅       |
+| **Introduction to Natural Language Processing**                        | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                        | 2min 40sec           | 100% ✅       |
 ---
 
 ## 💯 Why These Work

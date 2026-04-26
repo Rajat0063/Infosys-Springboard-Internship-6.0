@@ -6,19 +6,32 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 
 | 📌 **Topic**                              | 🔗 **Video Link**                                                                                              | ⏱️ **Duration**     | 🎯 **Score** |
 |-------------------------------------------|---------------------------------------------------------------------------------------------------------------|---------------------|--------------|
-| **JavaScript**                            | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/qIhsQiETTw0)                     | 2min 57sec          | 100% ✅       |
-| **CSS3**                                  | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/kX941Dc2ynI?si=Do1w8tQ-zjB4wxzT)                       | 2min 33sec          | 100% ✅       |
-| **Angular**                               | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/vckc8c24p_E?si=aivJFUKwilNDt-Om) | 3min 26sec          | 100% ✅       |
-| **Angular Web Developer**                 | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/Oy2HWnEP-zs?si=Vekh9DOoI52wZuWp) | 5min 37sec          | 72.5% ✅      |
-| **Twitter Bootstrap**                     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/jk6vzNhhnVw)                     | 3min 19sec          | 100% ✅       |
-| **TypeScript**                            | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/UYEf7yNHYJY)                     | 3min 39sec          | 100% ✅       |
-| **User Experience**                       | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/fwT2_qU942I)                     | 5min 12sec          | 100% ✅       |
-| **Website Creation**                      | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/b4h8bNmFntA)                     | 1min 41sec          | 100% ✅       |
-| **Creating Responsive Web Pages (Bootstrap 4)** | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/GKQIhKAnqGk)                     | 2min 43sec          | 100% ✅       |
-| **Agile Scrum in Practice**               | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                     | 1min 41sec          | 100% ✅       |
-| **Time Management**                       | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk?si=UZbh95XpH4Fg4vCp) | 1min 40sec          | 100% ✅       |
-| **Email Writing**                         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                     | 2min 40sec          | 100% ✅       |
-| **High Impact Presentation**              | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/4Zdk_m6jdbg)                     | 2min 30sec          | 100% ✅       |
+| **JavaScript**                                         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/qIhsQiETTw0)                                   | 2min 57sec          | 100% ✅       |
+| **CSS3**                                               | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/kX941Dc2ynI)                                   | 2min 33sec          | 100% ✅       |
+| **Angular**                                            | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/vckc8c24p_E)                                   | 3min 26sec          | 100% ✅       |
+| **Angular Web Developer**                              | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/Oy2HWnEP-zs)                                   | 5min 37sec          | 72.5% ✅      |
+| **Twitter Bootstrap**                                  | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/jk6vzNhhnVw)                                   | 3min 19sec          | 100% ✅       |
+| **TypeScript**                                         | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/UYEf7yNHYJY)                                   | 3min 39sec          | 100% ✅       |
+| **User Experience**                                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/fwT2_qU942I)                                   | 5min 12sec          | 100% ✅       |
+| **Website Creation**                                   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/b4h8bNmFntA)                                   | 1min 41sec          | 100% ✅       |
+| **Creating Responsive Web Pages (Bootstrap 4)**        | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/GKQIhKAnqGk)                                   | 2min 43sec          | 100% ✅       |
+| **Agile Scrum in Practice**                            | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/32t1jqEgD80)                                   | 1min 41sec          | 100% ✅       |
+| **Time Management**                                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/tqxOT7nV5qk)                                   | 1min 40sec          | 100% ✅       |
+| **Email Writing**                                      | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/E94-uTcNfCM)                                   | 2min 40sec          | 100% ✅       |
+| **High Impact Presentation**                           | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
+(https://youtu.be/4Zdk_m6jdbg)                                   | 2min 30sec          | 100% ✅       |
 
 ## 💯 Why These Work
 
