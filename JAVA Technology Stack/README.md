@@ -10,22 +10,14 @@ Boost your scores to 💯 with these comprehensive tutorial videos. Clear explan
 
 | 📌 **Topic**                  | 🔗 **Video Link**                                                                                              | ⏱️ **Duration**       | 🎯 **Score** |
 |-------------------------------|---------------------------------------------------------------------------------------------------------------|-----------------------|--------------|
-| **Java Foundation Certification**                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/Vh7cez_Yxbo)                                | 7min 20sec            | 98.5% ✅      |
-| **Java Programming Fundamentals**                    | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/)                                           | 00min 00sec           | 100% ✅       |
-| **Programming using Java**                           | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/bcz6RrV4Otc)                                | 4min 36sec            | 100% ✅       |
-| **Database Management System Part-1**                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/yEmMGa2WUG0)                                | 3min 11sec            | 100% ✅       |
-| **Database Management System Part-2**                | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/wyYVZkfWR3Q)                                | 3min 01sec            | 100% ✅       |
-| **Agile Scrum in Practice**                          | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/32t1jqEgD80)                                | 1min 41sec            | 100% ✅       |
-| **Time Management**                                  | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/tqxOT7nV5qk)                                | 1min 40sec            | 100% ✅       |
-| **Email Writing Skills**                             | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)]
-(https://youtu.be/E94-uTcNfCM)                                | 2min 40sec            | 100% ✅       |
+| **Java Foundation Certification**                                     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/Vh7cez_Yxbo)                                                | 7min 20sec            | 98.5% ✅      |
+| **Java Programming Fundamentals**                                     | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/)                                                           | 00min 00sec           | 100% ✅       |
+| **Programming using Java**                                            | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/bcz6RrV4Otc)                                                | 4min 36sec            | 100% ✅       |
+| **Database Management System Part-1**                                 | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/yEmMGa2WUG0)                                                | 3min 11sec            | 100% ✅       |                     
+| **Database Management System Part-2**                                 | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/wyYVZkfWR3Q)                                                | 3min 01sec            | 100% ✅       |
+| **Agile Scrum in Practice**                                           | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/32t1jqEgD80)                                                | 1min 41sec            | 100% ✅       |
+| **Time Management**                                                   | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/tqxOT7nV5qk)                                                | 1min 40sec            | 100% ✅       |
+| **Email Writing Skills**                                              | [![YouTube](https://img.shields.io/badge/YouTube-Watch-red)](https://youtu.be/E94-uTcNfCM)                                                | 2min 40sec            | 100% ✅       |
 
 ---
 
